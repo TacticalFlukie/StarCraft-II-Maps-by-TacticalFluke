@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditorPreferences>
+    <pref label="DocsMaxCompression"><flag>false</flag></pref>
+    <pref label="DocsAutosave"><flag>false</flag></pref>
+    <pref label="DocsAutoSaveTime"><value>10</value></pref>
+    <pref label="DocsAutoSaveTimeUnit"><value>2</value></pref>
+    <pref label="DocsBackup"><flag>true</flag></pref>
+    <pref label="DocsBackupLoc"><value>2</value></pref>
+    <pref label="DocsBackupLocPath"><text></text></pref>
+    <pref label="DocsBackupAutosaves"><flag>false</flag></pref>
+    <pref label="DocsBackupLimit"><flag>true</flag></pref>
+    <pref label="DocsBackupLimitAmount"><value>5</value></pref>
+    <pref label="DocsBackupTimeLimit"><flag>true</flag></pref>
+    <pref label="DocsBackupTimeLimitTime"><value>1</value></pref>
+    <pref label="DocsBackupTimeLimitUnit"><value>3</value></pref>
+    <pref label="DocsBackupDelete"><flag>false</flag></pref>
+    <pref label="DocsBackupDeleteTime"><value>4</value></pref>
+    <pref label="DocsBackupDeleteTimeUnit"><value>5</value></pref>
+    <pref label="DocsAutoReload"><flag>true</flag></pref>
+    <pref label="DocsPreserveExtraData"><flag>false</flag></pref>
+</EditorPreferences>
