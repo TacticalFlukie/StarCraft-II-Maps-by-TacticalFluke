@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectUnit Id="1323425206" Variation="3" Position="146,94.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="2040553261" Position="132.5,118.5,0" Scale="1,1,1" UnitType="Hatchery">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="826169098" Position="28.5,60.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="1812787939" Position="137.5,84.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="801157976" Position="146,90.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="348700409" Position="117,63.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="201538738" Variation="2" Position="121,35.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="792307105" Variation="4" Position="145,28.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1990104909" Variation="6" Position="122,49.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="853216879" Variation="8" Position="141,26.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1173808038" Variation="4" Position="106,25.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="526861767" Variation="6" Position="65,126.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="694549417" Position="118,53.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="1433275367" Position="114.5,28.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="2133151028" Variation="5" Position="147,93.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1836887905" Position="23,86.5,0" Scale="1,1,1" UnitType="LabMineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1799690744" Variation="3" Position="47,99.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="460069548" Variation="7" Position="57,92.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1189504773" Position="102,26.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1977927482" Variation="7" Position="145,96.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="2931275" Variation="1" Position="118,55.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="493775535" Variation="7" Position="46,100.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="1170570259" Position="26.5,97.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1299912638" Position="36.5,122.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="745024032" Variation="9" Position="145,61.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="729646786" Variation="3" Position="139,121.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1198227320" Position="138.5,32.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="960217679" Variation="7" Position="138,67.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="932668481" Position="53.5,123.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="605507508" Variation="2" Position="49,99.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="890660473" Variation="5" Position="21,58.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="84711212" Position="40.5,26.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1651754737" Position="138.5,61.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="215341058" Position="139.5,116.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1060210737" Variation="4" Position="115,60.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="88570330" Variation="1" Position="48,98.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="1015102681" Variation="3" Position="29,30.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="723591634" Variation="4" Position="27,84.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1025871978" Variation="5" Position="45,103.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="687058870" Variation="3" Position="22,57.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="660973076" Variation="7" Position="111,59.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="208672341" Variation="8" Position="27,125.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="52536227" Variation="3" Position="23,88.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="2030585061" Variation="1" Position="120,53.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="46244924" Position="141.5,54.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="1640026158" Variation="3" Position="54,92.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1418095013" Variation="3" Position="60,92.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="845562380" Position="145,30.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="428216187" Position="50,98.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="1020252368" Variation="6" Position="144,66.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="344828192" Position="30.5,67.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="962972419" Variation="6" Position="31,27.5,0" Scale="1,1,1" UnitType="LabMineralField750">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1257266456" Variation="3" Position="67,123.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1307639220" Position="33.5,126.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="949238617" Variation="1" Position="144,27.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="120005531" Position="104.5,58.5,0" Scale="1,1,1" UnitType="RichVespeneGeyser"/>
+    <ObjectUnit Id="1768349495" Position="51,88.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="612430758" Variation="1" Position="24,124.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1680234864" Position="29.5,119.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="943784249" Variation="7" Position="146,88.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="300397217" Variation="5" Position="123,48.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="2113641276" Variation="7" Position="22,63.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="701448518" Position="145.5,58.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="1762611767" Variation="2" Position="51,97.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="612382550" Variation="7" Position="109,25.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="741864704" Variation="2" Position="124,47.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="2076577869" Variation="8" Position="47,101.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="1773684199" Variation="7" Position="52,89.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="692212833" Variation="4" Position="44,102.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="632160943" Position="90,88,0" Scale="1,1,1" UnitType="DestructibleRockEx1DiagonalHugeBLUR">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="772722008" Variation="7" Position="116,62.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1830838776" Variation="2" Position="139,68.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1303864386" Position="58.5,86.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="1479625366" Variation="9" Position="119,54.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="807271997" Position="22.5,93.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1194326584" Position="26.5,67.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="918908699" Variation="9" Position="29,32.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="899021348" Variation="6" Position="100,29.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1157831885" Variation="7" Position="131,124.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="446689750" Variation="6" Position="116,64.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1485516432" Variation="3" Position="114,59.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1999771602" Variation="3" Position="101,28.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1764662360" Position="55.5,127.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="1867895872" Variation="5" Position="45,101.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="201363912" Variation="7" Position="37,27.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="302525176" Variation="2" Position="132,125.5,0" Scale="1,1,1" UnitType="LabMineralField750">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1039599592" Variation="6" Position="137,124.5,0" Scale="1,1,1" UnitType="LabMineralField750">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="909679807" Variation="4" Position="34,27.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1020795787" Variation="4" Position="124,49.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="357494644" Variation="6" Position="22,89.5,0" Scale="1,1,1" UnitType="LabMineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1261207744" Variation="2" Position="117,54.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="1325825791" Position="145,65.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="450600375" Position="29.5,90.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="107532770" Position="141.5,84.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="992229698" Variation="4" Position="134,124.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="337078287" Position="78,64,0" Scale="1,1,1" UnitType="DestructibleRockEx1DiagonalHugeBLUR">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1674833320" Variation="7" Position="59,126.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1440004259" Position="66,125.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="480827983" Variation="9" Position="23,119.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1649088466" Variation="2" Position="44,104.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="1412566171" Position="63.5,93.5,0" Scale="1,1,1" UnitType="RichVespeneGeyser"/>
+    <ObjectUnit Id="1266202172" Variation="2" Position="48,117.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="736288723" Variation="3" Position="23,65.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="121090727" Variation="2" Position="119,52.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="1317160541" Variation="8" Position="121,50.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="1523352395" Variation="5" Position="123,50.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="102262887" Position="30,28.5,0" Scale="1,1,1" UnitType="LabMineralField750">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="511259853" Variation="3" Position="139,25.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="591751849" Variation="9" Position="49,97.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="1424965784" Variation="2" Position="48,115.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="892013962" Variation="6" Position="24,85.5,0" Scale="1,1,1" UnitType="LabMineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1311777279" Variation="9" Position="101,30.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1030144737" Variation="6" Position="46,102.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="1927871138" Position="109.5,65.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="541124501" Position="127.5,125.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1421002474" Variation="4" Position="141,67.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1460702427" Variation="4" Position="53,91.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1158736467" Variation="3" Position="121,52.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="728302862" Position="22,61.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1552826747" Variation="2" Position="29,83.5,0" Scale="1,1,1" UnitType="LabMineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1161648392" Variation="9" Position="21,62.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1449779151" Variation="3" Position="145,86.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="952382943" Variation="8" Position="59,93.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="2123026645" Variation="9" Position="139,119.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="2050604014" Position="139.5,91.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="645774162" Position="107.5,31.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="1022250796" Variation="4" Position="62,126.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="421471126" Variation="9" Position="23,90.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="753208386" Variation="2" Position="47,116.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="195170624" Variation="2" Position="108,24.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="373886658" Variation="7" Position="23,55.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1677853518" Variation="8" Position="109,58.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1772935716" Position="134.5,25.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="621958180" Variation="2" Position="120,36.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="211295431" Position="112.5,24.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="1204870406" Variation="9" Position="30,125.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="63805848" Position="131.5,29.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="1873404022" Variation="7" Position="122,51.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="794857236" Variation="3" Position="29,126.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="847541181" Variation="5" Position="120,51.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="2097032112" Variation="9" Position="145,32.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1916780194" Variation="6" Position="140,120.5,0" Scale="1,1,1" UnitType="LabMineralField750">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="905017321" Variation="6" Position="28,31.5,0" Scale="1,1,1" UnitType="LabMineralField750">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="335014030" Position="146,31.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="163011360" Position="138,123.5,0" Scale="1,1,1" UnitType="LabMineralField750">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="953629218" Position="23,121.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="2069500561" Variation="6" Position="22,59.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1243352430" Variation="3" Position="145,63.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1093072689" Variation="2" Position="119,35.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1571441659" Position="35.5,33.5,0" Scale="1,1,1" UnitType="Hatchery">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1264559198" Variation="2" Position="120,34.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1996521153" Variation="1" Position="43,103.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="2127972718" Position="22,120.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="126703894" Variation="6" Position="146,62.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1976814263" Position="28.5,35.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1911118243" Variation="4" Position="23,123.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1315819739" Variation="2" Position="49,116.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="973476240" Variation="9" Position="67,121.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="2080039893" Variation="1" Position="125,48.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="1183343036" Variation="6" Position="52,87.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="586611119" Variation="2" Position="36,26.5,0" Scale="1,1,1" UnitType="LabMineralField750">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1519159137" Variation="6" Position="103,25.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="1916206418" Variation="3" Position="108,59.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="730585608" Variation="9" Position="138,26.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="1263668580" Variation="9" Position="147,89.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="707174465" Variation="6" Position="68,122.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="887356838" Variation="1" Position="50,96.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="29684818" Variation="6" Position="146,92.5,0" Scale="1,1,1" UnitType="LabMineralField"/>
+    <ObjectUnit Id="347297524" Position="60.5,120.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="1273418499" Variation="2" Position="60,127.5,0" Scale="1,1,1" UnitType="LabMineralField750"/>
+    <ObjectUnit Id="2004584918" Variation="5" Position="48,100.5,0" Scale="1,1,1" UnitType="RichMineralField750" Resources="14"/>
+    <ObjectUnit Id="1107792875" Variation="7" Position="30,84.5,0" Scale="1,1,1" UnitType="LabMineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+</PlacedObjects>

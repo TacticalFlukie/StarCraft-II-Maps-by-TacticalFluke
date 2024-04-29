@@ -1,0 +1,6 @@
+﻿Actor/Name/MedicAoEHoT=MedicAoEHoT
+Actor/Name/TychusMedicAoE=TychusMedicAoE 
+Actor/Name/TychusMedicAoERange=TychusMedicAoERange
+Actor/Name/TychusMedicAoE_AS=TychusMedicAoE_AS
+Model/Name/TychusMedicAoE=TychusMedicAoE
+Sound/Name/Tychus_Medic_HealMatrix_Start=Tychus_Medic_HealMatrix_Start 

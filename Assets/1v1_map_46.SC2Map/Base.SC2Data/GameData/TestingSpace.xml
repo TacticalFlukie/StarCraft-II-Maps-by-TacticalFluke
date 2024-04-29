@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CAbilEffectInstant id="TychusMedicAoE"/>
+    <!--CActorRange id="TychusWarHoundBuffRange">-->
+    <!--        <On Terms="UnitBirth.TychusWarhound" Send="Create"/>-->
+    <!--        <Range value="8.000000"/>-->
+    <!--    </CActorRange-->
+    <CActorSimple id="MedicAoEHoT"/>
+    <CActorModel id="TychusMedicAoE"/>
+    <CActorRange id="TychusMedicAoERange"/>
+    <CActorSound id="TychusMedicAoE_AS">
+        <!--Layers Sound=""/>-->
+    </CActorSound>
+    <CModel id="TychusMedicAoE"/>
+    <CSound id="Tychus_Medic_HealMatrix_Start"/>
+    <CBehaviorBuff id="TychusMedicAoEHoT"/>
+</Catalog>
