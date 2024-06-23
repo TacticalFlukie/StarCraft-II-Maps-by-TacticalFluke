@@ -1,0 +1,118 @@
+//==================================================================================================
+// 
+// Generated Map Script
+// 
+// Name:   Cataclysm Chasms
+// 
+//==================================================================================================
+include "TriggerLibs/NativeLib"
+
+//--------------------------------------------------------------------------------------------------
+// Library Initialization
+//--------------------------------------------------------------------------------------------------
+void InitLibs () {
+    libNtve_InitLib();
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger Variables
+//--------------------------------------------------------------------------------------------------
+trigger gt_MeleeInitialization;
+trigger gt_MoveSpawns;
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: Melee Initialization
+//--------------------------------------------------------------------------------------------------
+bool gt_MeleeInitialization_Func (bool testConds, bool runActions) {
+    // Variable Declarations
+    int lv_playerCount;
+    int lv_rand;
+    int lv_spawnCurr;
+    int lv_curr2;
+    int lv_curr;
+
+    // Automatic Variable Declarations
+    const int autoA007E6D2_ae = 8;
+    const int autoA007E6D2_ai = 1;
+    playergroup autoBF779000_g;
+    playergroup auto1CD30751_g;
+
+    // Variable Initialization
+    lv_playerCount = PlayerGroupCount(GameAttributePlayersForTeam(1));
+    lv_spawnCurr = 4;
+
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    MeleeInitResources();
+    MeleeInitUnits();
+    MeleeInitAI();
+    MeleeInitOptions();
+    Wait(0.05, c_timeGame);
+    lv_curr = 1;
+    for ( ; ( (autoA007E6D2_ai >= 0 && lv_curr <= autoA007E6D2_ae) || (autoA007E6D2_ai < 0 && lv_curr >= autoA007E6D2_ae) ) ; lv_curr += autoA007E6D2_ai ) {
+        if ((UnitCount(null, c_playerAny, RegionFromName(("Region 00" + IntToString(lv_curr))), UnitFilter((1 << c_targetFilterWorker), 0, (1 << c_targetFilterNeutral) | (1 << c_targetFilterMissile), (1 << (c_targetFilterDead - 32)) | (1 << (c_targetFilterHidden - 32))), 0) != 0)) {
+            UnitKill(UnitGroupUnit(UnitGroup("DestructibleRockEx16x6", c_playerAny, RegionFromName(("Region 00" + IntToString(lv_curr))), UnitFilter(0, 0, (1 << c_targetFilterMissile), (1 << (c_targetFilterDead - 32)) | (1 << (c_targetFilterHidden - 32))), 0), 1));
+            autoBF779000_g = PlayerGroupAll();
+            lv_curr2 = -1;
+            while (true) {
+                lv_curr2 = PlayerGroupNextPlayer(autoBF779000_g, lv_curr2);
+                if (lv_curr2 < 0) { break; }
+                VisRevealArea(lv_curr2, RegionFromName(("Region 01" + IntToString(lv_curr))), 0.01, false);
+            }
+        }
+
+    }
+    Wait(0.1, c_timeGame);
+    auto1CD30751_g = PlayerGroupAll();
+    lv_curr2 = -1;
+    while (true) {
+        lv_curr2 = PlayerGroupNextPlayer(auto1CD30751_g, lv_curr2);
+        if (lv_curr2 < 0) { break; }
+        VisFillArea(lv_curr2, RegionEntireMap(), c_fillTypeMasked, false);
+    }
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_MeleeInitialization_Init () {
+    gt_MeleeInitialization = TriggerCreate("gt_MeleeInitialization_Func");
+    TriggerAddEventMapInit(gt_MeleeInitialization);
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: Move Spawns
+//--------------------------------------------------------------------------------------------------
+bool gt_MoveSpawns_Func (bool testConds, bool runActions) {
+    // Variable Declarations
+    int lv_team1SpawnCorner;
+
+    // Automatic Variable Declarations
+    // Variable Initialization
+    lv_team1SpawnCorner = RandomInt(0, 100);
+
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_MoveSpawns_Init () {
+    gt_MoveSpawns = TriggerCreate("gt_MoveSpawns_Func");
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger Initialization
+//--------------------------------------------------------------------------------------------------
+void InitTriggers () {
+    gt_MeleeInitialization_Init();
+    gt_MoveSpawns_Init();
+}
+
+//--------------------------------------------------------------------------------------------------
+// Map Initialization
+//--------------------------------------------------------------------------------------------------
+void InitMap () {
+    InitLibs();
+    InitTriggers();
+}

@@ -1,0 +1,8 @@
+﻿Trigger/Name/8B4EF9F1=Melee Initialization
+Trigger/Name/8B516890=Move Spawns
+Variable/Name/48FE0ECA=spawnCurr
+Variable/Name/5C451851=curr
+Variable/Name/61E3D3A3=rand
+Variable/Name/C0B7C1CB=playerCount
+Variable/Name/D6D34523=team1SpawnCorner
+Variable/Name/DF1D4362=curr2

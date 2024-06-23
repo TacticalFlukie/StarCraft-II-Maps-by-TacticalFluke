@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Regions>
+    <region id="1">
+        <name value="Region 001"/>
+        <shape type="rect">
+            <quad value="5.7431,170.1574,44.0573,223.9846"/>
+        </shape>
+    </region>
+    <region id="2">
+        <name value="Region 002"/>
+        <shape type="rect">
+            <quad value="29.5905,210.153,80.6403,248.3564"/>
+        </shape>
+    </region>
+    <region id="3">
+        <name value="Region 003"/>
+        <shape type="rect">
+            <quad value="169.0751,208.9521,230.6037,251.6767"/>
+        </shape>
+    </region>
+    <region id="4">
+        <name value="Region 004"/>
+        <shape type="rect">
+            <quad value="209.547,172.5236,250.13,230.211"/>
+        </shape>
+    </region>
+    <region id="5">
+        <name value="Region 005"/>
+        <shape type="rect">
+            <quad value="207.7604,29.556,249.2905,94.4135"/>
+        </shape>
+    </region>
+    <region id="6">
+        <name value="Region 006"/>
+        <shape type="rect">
+            <quad value="169.2355,4.9045,230.8666,45.5141"/>
+        </shape>
+    </region>
+    <region id="7">
+        <name value="Region 007"/>
+        <shape type="rect">
+            <quad value="31.1955,5.0256,88.84,41.621"/>
+        </shape>
+    </region>
+    <region id="8">
+        <name value="Region 008"/>
+        <shape type="rect">
+            <quad value="6.3105,26.4885,48.6511,82.8371"/>
+        </shape>
+    </region>
+    <region id="9">
+        <name value="Region 009"/>
+        <shape type="circle">
+            <center value="18.3256,131.5563"/>
+            <radius value="6.161"/>
+        </shape>
+    </region>
+    <region id="10">
+        <name value="Region 010"/>
+        <shape type="circle">
+            <center value="21.3085,120.6247"/>
+            <radius value="7.8742"/>
+        </shape>
+    </region>
+    <region id="11">
+        <name value="Region 011"/>
+        <shape type="circle">
+            <center value="38.819,185.7155"/>
+            <radius value="6.4023"/>
+        </shape>
+    </region>
+    <region id="12">
+        <name value="Region 012"/>
+        <shape type="circle">
+            <center value="67.4648,215.3591"/>
+            <radius value="7.197"/>
+        </shape>
+    </region>
+    <region id="13">
+        <name value="Region 013"/>
+        <shape type="circle">
+            <center value="186.4287,215.4638"/>
+            <radius value="6.4372"/>
+        </shape>
+    </region>
+    <region id="14">
+        <name value="Region 014"/>
+        <shape type="circle">
+            <center value="214.633,188.3586"/>
+            <radius value="6.681"/>
+        </shape>
+    </region>
+    <region id="15">
+        <name value="Region 015"/>
+        <shape type="circle">
+            <center value="216.1237,68.2846"/>
+            <radius value="5.8828"/>
+        </shape>
+    </region>
+    <region id="16">
+        <name value="Region 016"/>
+        <shape type="circle">
+            <center value="189.0024,38.9333"/>
+            <radius value="6.8793"/>
+        </shape>
+    </region>
+    <region id="17">
+        <name value="Region 017"/>
+        <shape type="circle">
+            <center value="68.1545,38.3835"/>
+            <radius value="6.286"/>
+        </shape>
+    </region>
+    <region id="18">
+        <name value="Region 018"/>
+        <shape type="circle">
+            <center value="39.2646,65.5512"/>
+            <radius value="6.407"/>
+        </shape>
+    </region>
+</Regions>

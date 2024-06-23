@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CModel id="DestructibleRockEx14x4">
+        <TextureAppliedGroups value="ulnar"/>
+    </CModel>
+    <CModel id="DestructibleRockEx16x6">
+        <TextureAppliedGroups value="ulnar"/>
+    </CModel>
+    <CModel id="VespeneGeyser">
+        <Model value="Assets\Buildings\Resources\VespeneGeyser\VespeneGeyser.m3"/>
+    </CModel>
+    <CModel id="VespeneGeyserHigh">
+        <Model value="Assets\Buildings\Resources\VespeneGeyser\VespeneGeyser.m3"/>
+        <TextureAppliedGroups value="marsara"/>
+        <!--PausedParticleSystemBehavior value="PauseEmissionRate"\-->
+    </CModel>
+</Catalog>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CLight id="MarSara">
+        <ToDInfoArray index="0" AmbientColor="0.415686,0.376471,0.317647">
+            <DirectionalLight index="Key" Color="0.901961,0.764706,0.658824" Direction="0.502290,-0.491879,-0.711168"/>
+            <DirectionalLight index="Fill" Color="0.247059,0.172549,0.152941"/>
+        </ToDInfoArray>
+    </CLight>
+</Catalog>

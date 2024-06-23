@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Attributes>
+    <DefaultVariants Value="0"/>
+    <Variant>
+        <Id Value="1"/>
+        <CategoryId Value="2"/>
+        <ModeId Value="1"/>
+        <ModeName Value="Variant001/ModeName"/>
+        <ModeDesc Value="Variant001/ModeDesc"/>
+        <MaxTeamSize Value="7"/>
+        <Name Value="Variant001/Name"/>
+        <Description Value="Variant001/Desc"/>
+    </Variant>
+    <Variant>
+        <Id Value="2"/>
+        <CategoryId Value="2"/>
+        <ModeId Value="1"/>
+        <ModeName Value="Variant002/ModeName"/>
+        <ModeDesc Value="Variant002/ModeDesc"/>
+        <MaxTeamSize Value="4"/>
+        <Name Value="Variant002/Name"/>
+        <Description Value="Variant002/Desc"/>
+    </Variant>
+    <Variant>
+        <Id Value="3"/>
+        <CategoryId Value="2"/>
+        <ModeId Value="1"/>
+        <ModeName Value="Variant003/ModeName"/>
+        <ModeDesc Value="Variant003/ModeDesc"/>
+        <MaxTeamSize Value="4"/>
+        <Name Value="Variant003/Name"/>
+        <Description Value="Variant003/Desc"/>
+    </Variant>
+    <Variant>
+        <Id Value="4"/>
+        <CategoryId Value="2"/>
+        <ModeId Value="1"/>
+        <ModeName Value="Variant004/ModeName"/>
+        <ModeDesc Value="Variant004/ModeDesc"/>
+        <MaxTeamSize Value="3"/>
+        <Name Value="Variant004/Name"/>
+        <Description Value="Variant004/Desc"/>
+    </Variant>
+</Attributes>
