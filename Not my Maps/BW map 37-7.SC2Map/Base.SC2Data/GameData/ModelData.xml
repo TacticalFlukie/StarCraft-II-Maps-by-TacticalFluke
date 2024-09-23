@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CModel id="DefaultLava2" parent="Doodad">
+        <Model value="Assets\Textures\BW_TarPlane_v1_1.m3"/>
+        <LowQualityModel value="DefaultLavaLow2"/>
+    </CModel>
+    <CModel id="DefaultLavaLow2" parent="Doodad">
+        <Model value="Assets\Textures\TarLow.m3"/>
+    </CModel>
+    <CModel id="DestructibleRockEx16x62" parent="Doodad">
+        <Model value="Assets\Doodads\DestructibleRockEx16x6\DestructibleRockEx16x6.m3"/>
+        <Lighting value="DestructibleTextureSwapped"/>
+        <Radius value="3.000000"/>
+        <SelectionRadius value="3.000000"/>
+        <ShadowRadius value="3.000000"/>
+        <Tipability value="1.000000"/>
+        <TextureDeclares Prefix="Ramp_Destructible">
+            <Adaptions TriggerOnSubstring="Ramp_Destructible_" Slot="main"/>
+            <Adaptions TriggerOnSubstring="Belshir" PropsRemove="belshir" AppliesToFile="0"/>
+        </TextureDeclares>
+        <TextureDeclares Prefix="rockex1_">
+            <Adaptions TriggerOnSubstring="_Diff" Slot="main"/>
+        </TextureDeclares>
+    </CModel>
+    <CModel id="BWDesertRockSpires" parent="Doodad">
+        <Model value="Assets\Models\BWDesert_Spires.m3"/>
+        <Flags index="AOData" value="1"/>
+        <VariationCount value="5"/>
+    </CModel>
+    <CModel id="TarBubble2" parent="Doodad">
+        <Model value="Assets\Models\BW_TarBubble_4.m3"/>
+        <AnimSpeed value="0.125000"/>
+    </CModel>
+</Catalog>

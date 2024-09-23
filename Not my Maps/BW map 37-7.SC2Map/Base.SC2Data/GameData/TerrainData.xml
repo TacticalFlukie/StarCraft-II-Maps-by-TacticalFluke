@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrain id="BWDesert">
+        <EditorCategories value="Climate:Desert"/>
+        <LoadingScreen value="Assets\Loading\BW_Korhal_Loading.DDS"/>
+        <Ambience value="Ambience_Zerus"/>
+        <ReverbAmbient value="BetaVerb"/>
+        <BlendTextures value="BWDesert_"/>
+        <BlendTextures value="BWDesert_2"/>
+        <BlendTextures value="BWDesert_3"/>
+        <BlendTextures value="BWDesert_5"/>
+        <BlendTextures value="BWDesert_6"/>
+        <BlendTextures value="BWDesert_7"/>
+        <BlendTextures value="BWDesert_8"/>
+        <BlendTextures value="BWDesert_9"/>
+        <HardTiles value="MarSaraTile"/>
+        <CliffSets value="SnowRefineryCliff0"/>
+        <CliffSets value="BWDesert00"/>
+        <FixedSkyboxModel value="ZerusSkybox"/>
+        <EnvironmentMap value="Assets\Textures\ZerusSkyBox_Cube.dds"/>
+        <FogEnabled value="1"/>
+        <FogColor value="255,149,118,55"/>
+        <FogDensity value="0.090000"/>
+        <FogFalloff value="0.100000"/>
+        <FogStartingHeight value="-5.000000"/>
+        <CreepBaseTexture value="Assets\Textures\Creep\BW_Creep_Caev512_Diffuse.dds"/>
+        <CreepBaseSpecularMap value="Assets\Textures\Creep\BW_Creep2_Spec.dds"/>
+        <CreepEdgeNormalMap value="Assets\Textures\Creep\BW_CreepEdge2_Caev512_Normal.dds"/>
+        <CreepHeightMap value="Assets\Textures\Creep\BW_Creep_Hei.dds"/>
+        <CreepNoiseMap value="Assets\Textures\Creep\BW_Creep_Noi.dds"/>
+        <CreepSettingsArray index="Low">
+            <CreepOpaqueAlphaThreshold value="0.500000"/>
+            <CreepTranslucentMaxThreshold value="0.125000"/>
+            <CreepNoiseSpeed value="0.010000"/>
+            <CreepHeightMapStrength value="4.000000"/>
+            <CreepNoiseStrength value="0.100000"/>
+            <CreepBaseTextureTileValue value="16.000000,16.000000"/>
+            <CreepBaseNormalMapTileValue value="16.000000,16.000000"/>
+            <CreepEdgeNormalMapMinRampThreshold value="0.450000"/>
+            <CreepTranslucentPassTint value="1.000000,1.000000,1.000000"/>
+            <CreepGroundNormalBlend value="15.000000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Medium">
+            <CreepOpaqueAlphaThreshold value="0.500000"/>
+            <CreepTranslucentMaxThreshold value="0.125000"/>
+            <CreepNoiseSpeed value="0.010000"/>
+            <CreepHeightMapStrength value="4.000000"/>
+            <CreepNoiseStrength value="0.100000"/>
+            <CreepBaseTextureTileValue value="16.000000,16.000000"/>
+            <CreepBaseNormalMapTileValue value="16.000000,16.000000"/>
+            <CreepEdgeNormalMapMinRampThreshold value="0.450000"/>
+            <CreepTranslucentPassTint value="1.000000,1.000000,1.000000"/>
+            <CreepGroundNormalBlend value="15.000000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="High">
+            <CreepOpaqueAlphaThreshold value="0.500000"/>
+            <CreepTranslucentMaxThreshold value="0.125000"/>
+            <CreepNoiseSpeed value="0.010000"/>
+            <CreepHeightMapStrength value="4.000000"/>
+            <CreepNoiseStrength value="0.100000"/>
+            <CreepBaseTextureTileValue value="16.000000,16.000000"/>
+            <CreepBaseNormalMapTileValue value="16.000000,16.000000"/>
+            <CreepEdgeNormalMapMinRampThreshold value="0.450000"/>
+            <CreepTranslucentPassTint value="1.000000,1.000000,1.000000"/>
+            <CreepGroundNormalBlend value="15.000000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Ultra">
+            <CreepOpaqueAlphaThreshold value="0.500000"/>
+            <CreepTranslucentMaxThreshold value="0.125000"/>
+            <CreepNoiseSpeed value="0.010000"/>
+            <CreepHeightMapStrength value="4.000000"/>
+            <CreepNoiseStrength value="0.100000"/>
+            <CreepBaseTextureTileValue value="16.000000,16.000000"/>
+            <CreepBaseNormalMapTileValue value="16.000000,16.000000"/>
+            <CreepEdgeNormalMapMinRampThreshold value="0.450000"/>
+            <CreepTranslucentPassTint value="1.000000,1.000000,1.000000"/>
+            <CreepGroundNormalBlend value="15.000000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Extreme">
+            <CreepOpaqueAlphaThreshold value="0.500000"/>
+            <CreepTranslucentMaxThreshold value="0.125000"/>
+            <CreepNoiseSpeed value="0.010000"/>
+            <CreepHeightMapStrength value="4.000000"/>
+            <CreepNoiseStrength value="0.100000"/>
+            <CreepBaseTextureTileValue value="16.000000,16.000000"/>
+            <CreepBaseNormalMapTileValue value="16.000000,16.000000"/>
+            <CreepEdgeNormalMapMinRampThreshold value="0.450000"/>
+            <CreepTranslucentPassTint value="1.000000,1.000000,1.000000"/>
+            <CreepGroundNormalBlend value="15.000000"/>
+        </CreepSettingsArray>
+        <HeightMapEnabled value="1"/>
+        <TextureProp value="marsara"/>
+    </CTerrain>
+</Catalog>

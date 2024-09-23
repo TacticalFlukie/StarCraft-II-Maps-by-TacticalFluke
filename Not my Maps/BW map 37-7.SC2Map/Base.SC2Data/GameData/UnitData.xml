@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CUnit id="Assimilator">
+        <BuiltOn value="VespeneGeyserFootprintTest"/>
+    </CUnit>
+    <CUnit id="DestructibleRockEx16x62">
+        <Description value="Button/Tooltip/DestructibleRock6x6"/>
+        <DeathRevealRadius value="3"/>
+        <ReviveType value="DestructibleRock6x6"/>
+        <Facing value="315"/>
+        <FlagArray index="CreateVisible" value="1"/>
+        <FlagArray index="Untooltipable" value="0"/>
+        <FlagArray index="UseLineOfSight" value="1"/>
+        <FlagArray index="Destructible" value="1"/>
+        <FlagArray index="NoPortraitTalk" value="1"/>
+        <FlagArray index="ArmorDisabledWhileConstructing" value="1"/>
+        <FogVisibility value="Snapshot"/>
+        <EditorFlags index="NeutralDefault" value="1"/>
+        <PlaneArray index="Ground" value="1"/>
+        <Collide index="Burrow" value="1"/>
+        <Collide index="Ground" value="1"/>
+        <Collide index="Structure" value="1"/>
+        <Collide index="RoachBurrow" value="1"/>
+        <Collide index="ForceField" value="1"/>
+        <Collide index="Small" value="1"/>
+        <Attributes index="Armored" value="1"/>
+        <Attributes index="Structure" value="1"/>
+        <LifeStart value="2000"/>
+        <LifeMax value="2000"/>
+        <LifeArmor value="3"/>
+        <LifeArmorName value="Unit/LifeArmorName/HardenedMaterial"/>
+        <Footprint value="Footprint4x4DestructibleRockDiagonal"/>
+        <MinimapRadius value="2.5"/>
+        <EditorCategories value="ObjectType:Destructible,ObjectFamily:Melee"/>
+        <TacticalAI value="DestructibleRock6x6"/>
+        <LeaderAlias value="DestructibleRock6x6"/>
+        <HotkeyAlias value="DestructibleRock6x6"/>
+        <SelectAlias value="DestructibleRock6x6"/>
+        <SubgroupAlias value="DestructibleRock6x6"/>
+        <AIEvaluateAlias value="DestructibleRock6x6"/>
+        <ReviveInfoBase>
+            <Charge Link="DestructibleRock6x6/Revive"/>
+            <Cooldown Link="DestructibleRock6x6/Revive"/>
+        </ReviveInfoBase>
+    </CUnit>
+    <CUnit id="VespeneGeyserFootprintTest">
+        <DeathRevealRadius value="3"/>
+        <Mob value="Multiplayer"/>
+        <FlagArray index="Turnable" value="0"/>
+        <FlagArray index="CreateVisible" value="1"/>
+        <FlagArray index="Uncommandable" value="1"/>
+        <FlagArray index="TownAlert" value="1"/>
+        <FlagArray index="Invulnerable" value="1"/>
+        <FlagArray index="NoPortraitTalk" value="1"/>
+        <FlagArray index="ArmorDisabledWhileConstructing" value="1"/>
+        <ResourceState value="Raw"/>
+        <ResourceType value="Vespene"/>
+        <FogVisibility value="Snapshot"/>
+        <EditorFlags index="NeutralDefault" value="1"/>
+        <PlaneArray index="Ground" value="1"/>
+        <Collide index="Structure" value="1"/>
+        <Collide index="RoachBurrow" value="1"/>
+        <Attributes index="Structure" value="1"/>
+        <LifeStart value="10000"/>
+        <LifeMax value="10000"/>
+        <LifeArmor value="10"/>
+        <BehaviorArray Link="RawVespeneGeyserGas"/>
+        <Radius value="1.5"/>
+        <SeparationRadius value="1.5"/>
+        <Footprint value="FootprintGeyserRoundedLarge"/>
+        <SubgroupPriority value="2"/>
+        <MinimapRadius value="1.5"/>
+        <EditorCategories value="ObjectType:Resource,ObjectFamily:Melee"/>
+        <Fidget DelayMax="0"/>
+    </CUnit>
+</Catalog>

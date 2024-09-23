@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CSound id="Destructible_RockDeath2" parent="Ambience_Object">
+        <AssetArray File="Assets\Sounds\Uni\Units\Rocks\Rocks_ExplosionLarge0.wav"/>
+        <AssetArray File="Assets\Sounds\Uni\Units\Rocks\Rocks_ExplosionLarge1.wav"/>
+        <AssetArray File="Assets\Sounds\Uni\Units\Rocks\Rocks_ExplosionLarge2.wav"/>
+        <AssetArray File="Assets\Sounds\Uni\Units\Rocks\Rocks_ExplosionLarge3.wav"/>
+        <AssetArray File="Assets\Sounds\Uni\Units\Rocks\Rocks_ExplosionLarge4.wav"/>
+        <Category value="Combat"/>
+        <Pitch value="-2.000000,2.000000"/>
+        <Volume value="-1.000000,-1.000000"/>
+    </CSound>
+</Catalog>

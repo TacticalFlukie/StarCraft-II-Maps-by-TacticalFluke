@@ -1,0 +1,14 @@
+﻿Button/Tooltip/VespeneGeyserFootprintTest=Workers can harvest vespene gas from this Vespene Geyser.
+DocInfo/DescLong=(Public Test Edition) An isle of tar at in the middle of a desolate wasteland.<n/><n/>This map was designed with BW vs SC2 in mind to test limits for the future. Please provide feedback at SC:EVO's discord: https://discord.gg/fDvwdnkDeB<n/><n/>Avex / Kat / Caei
+DocInfo/DescShort=1v1
+DocInfo/Name=[SC: Evo Complete] Hydrocarbon (탄화수소) PTE
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Player 1
+MapInfo/Player02/Name=Player 2
+MapInfo/Player03/Name=Hostile
+Terrain/Name/BWDesert=BW Desert
+Unit/Name/DestructibleRockEx16x62=Rocks
+Unit/Name/VespeneGeyser3=Vespene Geyser
+Unit/Name/VespeneGeyser4=Vespene Geyser
+Unit/Name/VespeneGeyser5=Vespene Geyser
+Unit/Name/VespeneGeyserFootprintTest=Vespene Geyser (Footprint Test)

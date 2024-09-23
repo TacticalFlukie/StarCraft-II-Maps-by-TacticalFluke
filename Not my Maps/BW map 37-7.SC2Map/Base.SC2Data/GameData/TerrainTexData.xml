@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrainTex id="BWDesert_">
+        <Texture value="Assets\Textures\Tileset\bw_desert_1_final2.dds"/>
+        <Normalmap value="Assets\Textures\Tileset\customterrain_dirtcracked3normal.dds"/>
+        <Heightmap value="Assets\Textures\Tileset\customterrain_dirtcracked3normal.dds"/>
+        <EditorIcon value="Assets\Textures\Tileset\bw_desert_1_final2.dds"/>
+        <DoodadEntry Model="RockMixMarSara" RandomRotation="1" PlacementRadius="1.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="BWDesert_2">
+        <Texture value="Assets\Textures\Tileset\bw_desert_2_3.dds"/>
+        <Normalmap value="Assets\Textures\shakurastemple_1normal.dds"/>
+        <Heightmap value="Assets\Textures\shakurastemple_1normal.dds"/>
+        <HeightMapScale value="15.000000"/>
+        <EditorIcon value="Assets\Textures\Tileset\bw_desert_2_2.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="BWDesert_3">
+        <Texture value="Assets\Textures\Tileset\bw_desert_3_3.dds"/>
+        <Normalmap value="Assets\Textures\snowrefinery_06normal.dds"/>
+        <Heightmap value="Assets\Textures\tarsoniscity_7normal.dds"/>
+        <HeightMapScale value="5.000000"/>
+        <EditorIcon value="Assets\Textures\Tileset\bw_desert_3_3.dds"/>
+        <DoodadEntry>
+            <Model value="AvernusGroundMix"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.100000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+    </CTerrainTex>
+    <CTerrainTex id="BWDesert_5">
+        <Texture value="Assets\Textures\Tileset\bw_desert_5_3.dds"/>
+        <Normalmap value="Assets\Textures\korhalwastes_2normal.dds"/>
+        <Heightmap value="Assets\Textures\korhalwastes_2normal.dds"/>
+        <EditorIcon value="Assets\Textures\Tileset\bw_desert_5_3.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="BWDesert_6">
+        <Texture value="Assets\Textures\Tileset\bw_desert_6.dds"/>
+        <Normalmap value="Assets\Textures\Tileset\customterrain_rocknormal_portzion.dds"/>
+        <Heightmap value="Assets\Textures\Tileset\customterrain_rocknormal_portzion.dds"/>
+        <EditorIcon value="Assets\Textures\Tileset\bw_desert_6.dds"/>
+        <DoodadEntry Model="RockMixMarSara" RandomRotation="1" PlacementRadius="1.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="BWDesert_8">
+        <Texture value="Assets\Textures\Tileset\bw_desert_8_3.dds"/>
+        <Normalmap value="Assets\Textures\Tileset\customterrain_dirtcracked3normal.dds"/>
+        <Heightmap value="Assets\Textures\Tileset\customterrain_dirtcracked3normal.dds"/>
+        <HeightMapScale value="11.000000"/>
+        <EditorIcon value="Assets\Textures\Tileset\bw_desert_8_3.dds"/>
+        <DoodadEntry Model="RockMixTarsonis" RandomRotation="1" PlacementRadius="1.000000"/>
+        <DoodadEntry Model="PlantMixMarSara"/>
+    </CTerrainTex>
+    <CTerrainTex id="BWDesert_9">
+        <Texture value="Assets\Textures\Tileset\bw_desert_bridge_2.dds"/>
+        <Normalmap value="Assets\Textures\starship_5normal.dds"/>
+        <Heightmap value="Assets\Textures\Tileset\bw_desert_bridge_normal.dds"/>
+        <EditorIcon value="Assets\Textures\Tileset\bw_desert_bridge_2.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="BWDesert_7">
+        <Texture value="Assets\Textures\Tileset\bw_desert_7_2.dds"/>
+        <Normalmap value="Assets\Textures\Tileset\customterrain_chardunes5_normal.dds"/>
+        <Heightmap value="Assets\Textures\Tileset\customterrain_chardunes5_normal.dds"/>
+        <EditorIcon value="Assets\Textures\Tileset\bw_desert_7_2.dds"/>
+        <DoodadEntry>
+            <Model value="RockMixRedstone"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.400000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+    </CTerrainTex>
+</Catalog>

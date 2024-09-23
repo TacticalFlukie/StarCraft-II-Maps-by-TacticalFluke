@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectDoodad Id="1226102673" Variation="14" Position="73,93,7.9973" Rotation="0.7834" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1621563675" Variation="14" Position="87,99,7.9973" Rotation="0.7766" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1201356142" Variation="14" Position="69,93,7.9968" Rotation="0.7851" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="262661155" Variation="8" Position="93.3356,95.4836,7.9973" Rotation="5.4958" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="524140736" Variation="14" Position="85,89,7.9973" Rotation="3.9223" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="717007919" Variation="8" Position="73.3364,75.4912,7.9973" Rotation="5.4914" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1298213535" Variation="8" Position="93.485,72.323,7.9973" Rotation="0.7792" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="599919045" Variation="14" Position="79,69,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="494376670" Variation="14" Position="95,99,7.9973" Rotation="3.924" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="149681875" Variation="8" Position="92.485,73.323,7.9973" Rotation="0.7792" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1063319508" Variation="8" Position="75.664,73.516,7.9973" Rotation="2.3552" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1703942315" Variation="14" Position="61,113,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1782958654" Variation="14" Position="89,91,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1795701945" Variation="14" Position="91,103,7.9973" Rotation="0.7766" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1903282349" Variation="14" Position="87,79,7.9973" Rotation="0.7834" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="994251505" Variation="8" Position="73.5317,72.3447,7.9973" Rotation="0.7834" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1279049195" Variation="14" Position="65,59,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1733092197" Variation="14" Position="67,89,7.9973" Rotation="2.366" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="801580358" Variation="14" Position="69,65,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1789982100" Variation="8" Position="75.5146,94.6767,7.9973" Rotation="3.9223" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="351336272" Variation="14" Position="69,73,7.9973" Rotation="0.7834" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1171306933" Variation="14" Position="73,99,7.9968" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1623636153" Variation="14" Position="65,91,7.9973" Rotation="5.5056" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1346803730" Variation="14" Position="79,85,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="457154126" Variation="14" Position="87,67,7.9973" Rotation="3.933" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="701789635" Variation="8" Position="74.4958,75.6586,7.9973" Rotation="3.9223" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="351798922" Variation="14" Position="77,97,7.9968" Rotation="0.7851" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2135148386" Variation="14" Position="61,95,7.997" Rotation="5.4963" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="166039454" Variation="14" Position="51,63,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="552830225" Variation="14" Position="51,103,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="516886394" Variation="14" Position="89,73,7.9968" Rotation="3.926" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1908743422" Variation="8" Position="74.6828,92.5341,7.9973" Rotation="2.3554" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1521614694" Variation="14" Position="105,57,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="732186495" Variation="8" Position="74.664,72.516,7.9973" Rotation="2.3554" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1291847711" Variation="14" Position="77,103,7.9973" Rotation="5.5056" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="372993048" Variation="14" Position="89,85,7.9973" Rotation="3.9196" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2026813956" Variation="8" Position="72.5317,73.3447,7.9973" Rotation="0.7836" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="68862882" Variation="14" Position="69,81,7.9973" Rotation="3.9196" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1249657513" Variation="14" Position="101,101,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="668452537" Variation="14" Position="111,111,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1090555848" Variation="14" Position="89,93,7.9973" Rotation="0.7792" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="385006934" Variation="14" Position="103,109,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1312189539" Variation="8" Position="92.985,72.823,7.9973" Rotation="0.7792" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1451666941" Variation="14" Position="75,75,7.9973" Rotation="0.7834" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="670238499" Variation="14" Position="67,87,7.9973" Rotation="3.9306" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1132083694" Variation="14" Position="67,81,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1737951373" Variation="14" Position="65,83,7.9973" Rotation="2.35" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1883706457" Variation="14" Position="103,85,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1920106942" Variation="14" Position="117,103,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="760698111" Variation="14" Position="89,77,7.9973" Rotation="0.7834" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="446048314" Variation="14" Position="75,69,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="248726094" Variation="8" Position="95.468,94.655,7.9973" Rotation="3.9243" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1308336179" Variation="14" Position="63,97,7.997" Rotation="5.4963" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1837406555" Variation="14" Position="85,63,7.9973" Rotation="2.35" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2112074331" Variation="8" Position="92.817,74.9655,7.9973" Rotation="5.4953" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1542618803" Variation="14" Position="77,89,7.9973" Rotation="0.7792" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2100961229" Variation="14" Position="69,79,7.9973" Rotation="2.35" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="197756169" Variation="8" Position="94.9492,75.137,7.9973" Rotation="3.924" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="291972725" Variation="8" Position="94.468,95.655,7.9973" Rotation="3.924" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="19896873" Variation="14" Position="65,75,7.9973" Rotation="2.35" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1829366216" Variation="14" Position="89,81,7.9973" Rotation="3.9223" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1156629085" Variation="14" Position="89,101,7.9973" Rotation="3.916" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1886355847" Variation="14" Position="63,75,7.9973" Rotation="0.7756" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1473096895" Variation="14" Position="75,63,7.9973" Rotation="0.7753" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="241726283" Variation="14" Position="91,79,7.9973" Rotation="3.9223" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="235500035" Variation="14" Position="55,69,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="212287179" Variation="14" Position="75,103,7.9973" Rotation="3.9306" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="290521181" Variation="8" Position="93.317,75.4655,7.9973" Rotation="5.4958" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1143850542" Variation="8" Position="75.0146,95.1767,7.9973" Rotation="3.9223" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="563675294" Variation="14" Position="67,61,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1042994013" Variation="14" Position="71,77,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="550150971" Variation="14" Position="103,99,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="561571325" Variation="14" Position="79,77,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="886644366" Variation="8" Position="75.6828,93.5341,7.9973" Rotation="2.3552" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1594597811" Variation="14" Position="115,101,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1543090647" Variation="14" Position="87,101,7.9973" Rotation="5.4904" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="915275061" Variation="14" Position="103,77,7.9973" Rotation="2.364" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1334480315" Variation="14" Position="99,105,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1971394586" Variation="14" Position="73,89,7.9968" Rotation="0.7851" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1190811634" Variation="14" Position="103,83,7.9973" Rotation="0.7753" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="254034738" Variation="14" Position="105,77,7.9973" Rotation="0.7893" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1755789868" Variation="14" Position="79,81,7.9973" Rotation="2.3513" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="961088217" Variation="14" Position="93,65,7.9973" Rotation="0.7893" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1393666596" Variation="14" Position="67,107,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="427361657" Variation="14" Position="117,105,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2036392986" Variation="14" Position="105,71,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2091955753" Variation="14" Position="75,93,7.9973" Rotation="5.495" Scale="0.3698,0.8698,0.97" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="90345246" Variation="14" Position="63,57,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="235446632" Variation="14" Position="103,91,7.9973" Rotation="0.7766" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1144277287" Variation="14" Position="63,93,7.9973" Rotation="2.3657" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1376434259" Variation="14" Position="79,95,7.9968" Rotation="0.7851" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="321357536" Variation="14" Position="103,69,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1945955768" Variation="14" Position="75,99,7.9968" Rotation="0.7851" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1657243329" Variation="14" Position="85,105,7.9973" Rotation="3.9196" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2069945443" Variation="14" Position="57,71,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="363687647" Variation="14" Position="101,61,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1095187643" Variation="14" Position="61,73,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="662353593" Variation="14" Position="103,93,7.9973" Rotation="5.4904" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="381871384" Variation="14" Position="93,89,7.9973" Rotation="0.7792" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1555912455" Variation="14" Position="89,75,7.9968" Rotation="5.4963" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1863255673" Variation="14" Position="63,85,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="536016907" Variation="14" Position="89,67,7.9973" Rotation="5.5073" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1019630879" Variation="14" Position="99,103,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="518962996" Variation="14" Position="69,87,7.9973" Rotation="5.5056" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1894514674" Variation="14" Position="109,95,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="883010810" Variation="14" Position="111,71,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="93013425" Variation="14" Position="69,105,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="578792140" Variation="14" Position="65,85,7.9973" Rotation="3.9196" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1481162347" Variation="14" Position="93,63,7.9973" Rotation="5.5073" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1127230875" Variation="8" Position="73.0317,72.8447,7.9973" Rotation="0.7834" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1205271878" Variation="14" Position="81,69,7.9973" Rotation="3.9196" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="232619193" Variation="8" Position="75.164,73.016,7.9973" Rotation="2.3552" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2053362189" Variation="14" Position="89,87,7.9973" Rotation="5.4914" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="491807502" Variation="14" Position="77,63,7.9973" Rotation="2.35" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2095963474" Variation="14" Position="77,65,7.9973" Rotation="3.9196" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="632836199" Variation="14" Position="93,103,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="658567635" Variation="14" Position="93,95,7.9973" Rotation="2.3515" Scale="0.3698,0.8698,0.97" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1217654227" Variation="14" Position="73,69,7.9973" Rotation="0.7834" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1005801354" Variation="8" Position="72.5505,93.3627,7.9973" Rotation="0.7836" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1412459995" Variation="14" Position="61,55,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2008194061" Variation="14" Position="113,109,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="952974407" Variation="14" Position="65,93,7.9973" Rotation="0.7917" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1976101706" Variation="14" Position="99,95,7.9973" Rotation="3.924" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1205649032" Variation="8" Position="95.1633,93.0085,7.9973" Rotation="2.348" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1083497824" Variation="14" Position="55,59,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="383976957" Variation="14" Position="113,99,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1751349866" Variation="14" Position="65,109,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1712171928" Variation="14" Position="75,105,7.9973" Rotation="2.366" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="824626566" Variation="14" Position="109,113,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1222934905" Variation="8" Position="92.317,74.4655,7.9973" Rotation="5.4953" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1131373610" Variation="8" Position="93.504,92.341,7.9973" Rotation="0.7792" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1600699048" Variation="14" Position="65,99,7.997" Rotation="5.4963" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1283784085" Variation="14" Position="83,63,7.9973" Rotation="0.7753" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1429902714" Variation="14" Position="75,65,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1597844037" Variation="14" Position="107,73,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="506482172" Variation="14" Position="115,107,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="216676659" Variation="14" Position="87,89,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="468593082" Variation="14" Position="105,111,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="334306908" Variation="14" Position="57,97,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="187756871" Variation="14" Position="79,91,7.9973" Rotation="3.924" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1145407021" Variation="14" Position="93,93,7.9973" Rotation="3.924" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2117594889" Variation="14" Position="63,71,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="259967275" Variation="8" Position="74.5146,95.6767,7.9973" Rotation="3.9223" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1379788229" Variation="14" Position="69,103,7.997" Rotation="5.4963" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="363965132" Variation="14" Position="73,79,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1118570513" Variation="14" Position="55,109,7.997" Rotation="2.3542" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="884885320" Variation="14" Position="51,65,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="239164331" Variation="14" Position="105,85,7.9973" Rotation="3.9196" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="97050157" Variation="14" Position="93,69,7.9968" Rotation="3.926" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="134400677" Variation="14" Position="53,107,7.997" Rotation="2.3542" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="337984915" Variation="8" Position="72.3364,74.4912,7.9973" Rotation="5.4914" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1242825957" Variation="14" Position="113,59,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="652023489" Variation="14" Position="95,75,7.9973" Rotation="3.924" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1757819850" Variation="14" Position="91,65,7.9973" Rotation="2.364" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="699997257" Variation="14" Position="71,71,7.9973" Rotation="0.7834" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="437453027" Variation="14" Position="73,95,7.9973" Rotation="5.495" Scale="0.3698,0.8698,0.97" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2142543496" Variation="14" Position="81,101,7.9973" Rotation="0.7917" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1583714413" Variation="14" Position="99,93,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1572364088" Variation="14" Position="65,77,7.9973" Rotation="3.9196" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="635949092" Variation="14" Position="95,69,7.9968" Rotation="5.4963" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2126624670" Variation="14" Position="99,81,7.9973" Rotation="2.364" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1689734034" Variation="8" Position="92.504,93.341,7.9973" Rotation="0.7792" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2127269974" Variation="14" Position="115,61,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1335365994" Variation="14" Position="95,79,7.9968" Rotation="3.926" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="98470410" Variation="8" Position="73.0505,92.8627,7.9973" Rotation="0.7834" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2003891135" Variation="14" Position="99,73,7.9968" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1958643237" Variation="14" Position="81,67,7.9973" Rotation="2.35" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1462155995" Variation="14" Position="69,75,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="598842185" Variation="14" Position="111,97,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2055641516" Variation="14" Position="113,69,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1811630143" Variation="14" Position="95,93,7.9973" Rotation="2.3515" Scale="0.3698,0.8698,0.97" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1926124060" Variation="14" Position="109,55,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="735449677" Variation="8" Position="72.8552,95.0092,7.9973" Rotation="5.4914" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="670814528" Variation="14" Position="69,95,7.9968" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1138940358" Variation="14" Position="91,105,7.9973" Rotation="5.4904" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2075625320" Variation="14" Position="99,63,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="531787943" Variation="14" Position="109,73,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="118749550" Variation="14" Position="97,71,7.9968" Rotation="5.4963" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="627087284" Variation="14" Position="63,83,7.9973" Rotation="0.7753" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="431135308" Variation="14" Position="55,99,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1896308828" Variation="14" Position="67,101,7.997" Rotation="5.4963" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1112857487" Variation="14" Position="83,79,7.9973" Rotation="0.7792" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2087859293" Variation="14" Position="101,67,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2030123266" Variation="14" Position="81,99,7.9973" Rotation="5.5056" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="579289602" Variation="14" Position="89,83,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1655851996" Variation="14" Position="97,77,7.9968" Rotation="3.926" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1583279898" Variation="8" Position="94.6633,92.5085,7.9973" Rotation="2.348" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="441749589" Variation="14" Position="81,79,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="603397806" Variation="14" Position="97,91,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="151895018" Variation="14" Position="93,79,7.9968" Rotation="5.4963" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="552487070" Variation="14" Position="91,97,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1437073606" Variation="14" Position="107,55,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1064379062" Variation="14" Position="91,89,7.9973" Rotation="5.4914" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1468287576" Variation="14" Position="105,75,7.9973" Rotation="5.507" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1264154" Variation="8" Position="92.8356,94.9836,7.9973" Rotation="5.4953" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="82284809" Variation="14" Position="75,89,7.9968" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="699645624" Variation="14" Position="51,105,7.997" Rotation="2.3542" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1485902746" Variation="14" Position="77,105,7.9973" Rotation="0.7917" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2030358526" Variation="14" Position="85,79,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1359212376" Variation="8" Position="95.6633,93.5085,7.9973" Rotation="2.348" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="405735240" Variation="8" Position="72.3552,94.5092,7.9973" Rotation="5.4914" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="754620753" Variation="14" Position="53,61,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2002192262" Variation="14" Position="101,81,7.9973" Rotation="0.7893" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="346667506" Variation="14" Position="79,87,7.9973" Rotation="0.7792" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1777738263" Variation="8" Position="75.1828,93.0341,7.9973" Rotation="2.3552" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="454583479" Variation="14" Position="117,65,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1976993400" Variation="14" Position="79,75,7.9973" Rotation="3.9223" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1344840448" Variation="8" Position="94.4492,75.637,7.9973" Rotation="3.924" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1552624416" Variation="8" Position="95.4492,74.637,7.9973" Rotation="3.9243" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="14235993" Variation="14" Position="53,67,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="354546785" Variation="14" Position="99,87,7.9973" Rotation="0.7766" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1721278872" Variation="14" Position="105,93,7.9973" Rotation="3.9162" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="242148248" Variation="14" Position="93,99,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1224231226" Variation="14" Position="101,79,7.9973" Rotation="5.5073" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1075139958" Variation="14" Position="99,65,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2090824239" Variation="8" Position="94.6445,72.4904,7.9973" Rotation="2.348" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1749752855" Variation="14" Position="105,97,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1357017689" Variation="8" Position="73.5505,92.3627,7.9973" Rotation="0.7834" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1413832177" Variation="14" Position="111,57,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="559961816" Variation="14" Position="117,63,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="122332412" Variation="14" Position="89,69,7.9973" Rotation="0.7893" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1852352432" Variation="14" Position="75,73,7.9973" Rotation="5.495" Scale="0.3698,0.8698,0.97" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1544095600" Variation="14" Position="65,69,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1784680207" Variation="8" Position="72.8364,74.9912,7.9973" Rotation="5.4914" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1576526717" Variation="14" Position="85,65,7.9973" Rotation="3.9196" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1801888502" Variation="14" Position="95,73,7.9973" Rotation="2.3515" Scale="0.3698,0.8698,0.97" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2078212166" Variation="14" Position="89,95,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="401146377" Variation="14" Position="99,75,7.9968" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1029379764" Variation="14" Position="99,89,7.9973" Rotation="5.4904" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1620512747" Variation="14" Position="59,95,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1771555236" Variation="14" Position="71,97,7.9968" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="998949266" Variation="14" Position="73,75,7.9973" Rotation="5.495" Scale="0.3698,0.8698,0.97" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="834498273" Variation="14" Position="103,59,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1347581042" Variation="14" Position="53,101,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1881013564" Variation="14" Position="63,77,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="548751220" Variation="14" Position="59,113,7.997" Rotation="2.3542" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="621000277" Variation="14" Position="95,89,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="722212202" Variation="14" Position="73,73,7.9973" Rotation="0.7834" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="37546230" Variation="14" Position="69,63,7.997" Rotation="5.4975" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2108662141" Variation="14" Position="97,97,7.9973" Rotation="3.924" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1827617062" Variation="14" Position="103,75,7.9973" Rotation="3.933" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1844445268" Variation="14" Position="67,67,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2105383458" Variation="14" Position="115,67,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1599709138" Variation="8" Position="95.6445,73.4904,7.9973" Rotation="2.348" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1572300257" Variation="14" Position="99,79,7.9973" Rotation="3.933" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2018266208" Variation="14" Position="81,89,7.9973" Rotation="3.924" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="823453004" Variation="14" Position="83,65,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1188710765" Variation="14" Position="79,101,7.9973" Rotation="2.366" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1718447471" Variation="14" Position="75,79,7.9973" Rotation="3.9223" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1709344951" Variation="14" Position="67,79,7.9973" Rotation="0.7753" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1827805015" Variation="14" Position="77,79,7.9973" Rotation="2.3513" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="980182291" Variation="14" Position="59,55,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="480017349" Variation="14" Position="63,111,7.997" Rotation="0.7836" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="202793390" Variation="14" Position="91,63,7.9973" Rotation="3.933" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1932232453" Variation="14" Position="77,71,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1993786504" Variation="8" Position="95.1445,72.9904,7.9973" Rotation="2.348" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="142224373" Variation="14" Position="107,95,7.997" Rotation="0.7851" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1487902167" Variation="14" Position="93,75,7.9973" Rotation="2.3515" Scale="0.3698,0.8698,0.97" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1071563086" Variation="14" Position="57,57,7.997" Rotation="3.9267" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1603846761" Variation="14" Position="83,89,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="869065170" Variation="14" Position="105,91,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1105871511" Variation="14" Position="63,91,7.9973" Rotation="3.9306" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="816246722" Variation="14" Position="91,71,7.9968" Rotation="3.926" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1597621516" Variation="8" Position="75.4958,74.6586,7.9973" Rotation="3.9223" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1117317753" Variation="8" Position="94.968,95.155,7.9973" Rotation="3.924" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="953963673" Variation="14" Position="93,105,7.9973" Rotation="3.916" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1074583080" Variation="14" Position="79,73,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="933773795" Variation="14" Position="71,91,7.9968" Rotation="0.7851" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1307931133" Variation="14" Position="79,83,7.9973" Rotation="0.779" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="369294846" Variation="14" Position="105,83,7.9973" Rotation="2.35" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="190279674" Variation="14" Position="101,107,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1902750759" Variation="14" Position="75,95,7.9973" Rotation="0.7834" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1182106818" Variation="8" Position="74.9958,75.1586,7.9973" Rotation="3.9223" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1785507904" Variation="14" Position="79,67,7.9973" Rotation="0.7753" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="307965022" Variation="14" Position="57,111,7.997" Rotation="2.3542" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="819931753" Variation="8" Position="73.3552,95.5092,7.9973" Rotation="5.4914" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1900231786" Variation="14" Position="89,99,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="342860204" Variation="14" Position="87,69,7.9973" Rotation="2.364" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="765708033" Variation="14" Position="101,87,7.9973" Rotation="2.3515" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2141812892" Variation="8" Position="92.3356,94.4836,7.9973" Rotation="5.4953" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1166259248" Variation="14" Position="107,113,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="599502832" Variation="14" Position="83,103,7.9973" Rotation="0.7753" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="419295367" Variation="14" Position="83,105,7.9973" Rotation="5.4948" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1985069972" Variation="14" Position="59,73,7.997" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1926199015" Variation="14" Position="95,95,7.9973" Rotation="3.924" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="948865923" Variation="14" Position="101,89,7.9973" Rotation="3.916" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="7676322" Variation="8" Position="93.004,92.841,7.9973" Rotation="0.7792" Scale="0.25,0.2998,1" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="714509874" Variation="14" Position="79,93,7.9968" Rotation="2.356" Scale="0.4296,0.9296,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1063706266" Variation="14" Position="79,99,7.9973" Rotation="3.9306" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1018011728" Variation="14" Position="69,89,7.9973" Rotation="0.7917" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1387156581" Variation="14" Position="85,103,7.9973" Rotation="2.35" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="301274488" Variation="14" Position="93,73,7.9973" Rotation="3.924" Scale="0.43,0.93,1.0297" Type="PortCity_Trims" TintColor="196,149,121 1.600000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectUnit Id="149598273" Position="152,148.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="296383113" Position="143.5,152.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="659541588" Variation="7" Position="77,26.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="576034576" Variation="1" Position="15,143.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1842148748" Position="27.5,107.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1236303738" Variation="8" Position="122,135.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="706874158" Variation="9" Position="144,50.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1581898328" Variation="5" Position="46,34.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1032511489" Variation="7" Position="16,18.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="752580628" Variation="1" Position="46,139.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="583734081" Position="131,64,0" Rotation="1.0256" Scale="1,1,1" UnitType="DestructibleRockEx14x4"/>
+    <ObjectUnit Id="545654814" Position="37,104,0" Rotation="4.1672" Scale="1,1,1" UnitType="DestructibleRockEx14x4"/>
+    <ObjectUnit Id="195289372" Position="136.5,107.5,0" Scale="1,1,1" UnitType="VespeneGeyser">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="343021146" Position="82.5,19.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1840136892" Position="86.5,19.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1375331233" Variation="2" Position="17,140.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1397275145" Variation="7" Position="24,90.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="2083612878" Variation="9" Position="150,28.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1597360505" Variation="8" Position="122,30.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="817795662" Variation="7" Position="152,18.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="2035795344" Position="135.5,123.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="838975395" Variation="5" Position="152,25.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1823306785" Variation="8" Position="16,23.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="536437113" Variation="1" Position="153,24.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="489900432" Position="40.5,86.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="1857057796" Position="53.5,24.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1657566059" Position="15.5,82.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="344218602" Variation="1" Position="78,25.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1579795660" Position="31.5,107.5,0" Scale="1,1,1" UnitType="VespeneGeyser">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="42301979" Variation="7" Position="123,29.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1677283107" Position="140.5,44.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="444637615" Variation="4" Position="145,51.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1105541257" Variation="1" Position="24,78.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1486498730" Variation="7" Position="16,149.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1775338938" Variation="1" Position="153,20.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="332607568" Variation="3" Position="78,27.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1111158410" Variation="2" Position="151,27.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="218407075" Position="53.5,143.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1445170550" Position="147.5,152.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="964213206" Position="152.5,81.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="2129170443" Variation="1" Position="153,143.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="192080885" Variation="8" Position="151,17.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="417021888" Variation="8" Position="152,23.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="754488896" Variation="8" Position="24,55.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="356052154" Variation="1" Position="15,24.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="713632947" Position="49.5,24.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1155496283" Variation="2" Position="23,91.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="2147143423" Variation="1" Position="15,20.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="827229407" Variation="9" Position="92,26.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1722751035" Variation="8" Position="24,112.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="2025905462" Variation="4" Position="16,21.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="743285147" Variation="9" Position="23,111.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1771928342" Position="114.5,143.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="590881604" Position="136.5,60.5,0" Scale="1,1,1" UnitType="VespeneGeyser">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="721692669" Position="145,114.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1771887944" Variation="5" Position="152,142.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="18192411" Variation="1" Position="91,142.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="2108994073" Position="131,104,0" Rotation="2.1154" Scale="1,1,1" UnitType="DestructibleRockEx14x4"/>
+    <ObjectUnit Id="970958931" Variation="9" Position="24,117.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1738794472" Position="140.5,107.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1893453320" Variation="9" Position="23,56.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="597566418" Position="81.5,148.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1725696263" Variation="5" Position="46,133.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="666278921" Position="114.5,24.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1819939439" Variation="9" Position="18,28.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="2061703650" Variation="4" Position="23,77.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1476297247" Position="27.5,43.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="200441808" Position="86.5,128.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="307365583" Position="24.5,152.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1092349394" Variation="9" Position="24,52.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1829343356" Variation="2" Position="21,90.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1196867789" Variation="8" Position="46,137.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="665236807" Variation="8" Position="46,30.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="712669157" Variation="9" Position="144,115.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1034064148" Variation="6" Position="45,136.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="295443532" Variation="9" Position="145,56.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="877135453" Position="81.5,127.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="427959318" Position="86.5,148.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="481066882" Position="127.5,81.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="1181076027" Variation="6" Position="144,57.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1098520002" Position="152,19.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="358673922" Position="32.5,124.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="1046642948" Variation="4" Position="145,116.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1093983359" Variation="9" Position="145,111.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1036346537" Position="16,148.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1573080293" Variation="1" Position="147,77.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="322763255" Position="27.5,60.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="761316663" Position="31.5,60.5,0" Scale="1,1,1" UnitType="VespeneGeyser">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="942411996" Position="16,19.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1701775780" Variation="7" Position="92,141.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="707137009" Variation="8" Position="122,137.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="423549521" Variation="6" Position="45,31.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1230781001" Variation="5" Position="122,34.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="2084795350" Position="78,142.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1222541306" Variation="7" Position="147,89.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1563510748" Variation="6" Position="24,57.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1508287344" Position="20.5,15.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1435256233" Variation="6" Position="21,78.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="2062102697" Position="81.5,39.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="570980117" Variation="8" Position="91,27.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="244415871" Position="86.5,40.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="1211530424" Position="128.5,86.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="217280574" Variation="4" Position="146,76.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="326971225" Variation="9" Position="18,139.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="975795877" Position="23,53.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1873912393" Variation="6" Position="144,77.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1855269772" Variation="9" Position="150,139.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="557425955" Variation="6" Position="123,31.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1360999020" Variation="5" Position="16,142.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1820780434" Position="24.5,15.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="549760427" Position="20.5,152.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="543381682" Variation="5" Position="16,25.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="920794817" Variation="1" Position="15,147.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1911009843" Position="91,25.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="367762627" Variation="9" Position="24,115.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="2132170178" Variation="8" Position="122,32.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1440314752" Position="118.5,143.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1030370317" Variation="9" Position="144,52.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1995319472" Position="15.5,86.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="621940111" Variation="8" Position="16,144.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="94364994" Variation="2" Position="146,90.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1893968362" Variation="1" Position="122,28.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="169100372" Position="37,64,0" Rotation="5.2573" Scale="1,1,1" UnitType="DestructibleRockEx14x4"/>
+    <ObjectUnit Id="31654386" Position="135.5,43.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="1081362513" Position="147.5,15.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1166281067" Variation="8" Position="152,144.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1220501916" Variation="4" Position="23,116.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="881262483" Position="118.5,24.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="826901588" Variation="7" Position="45,29.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="2075443898" Variation="9" Position="24,50.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1904704307" Variation="8" Position="46,135.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1746352996" Variation="7" Position="45,138.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1371483060" Variation="4" Position="152,21.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1960075018" Variation="7" Position="152,149.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="297379055" Variation="8" Position="17,17.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1946178736" Variation="4" Position="152,146.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1035749554" Variation="8" Position="144,112.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="505182263" Variation="6" Position="144,110.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="967827736" Position="145,53.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="74626917" Variation="8" Position="78,140.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1090019957" Variation="4" Position="23,51.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1706358650" Variation="9" Position="144,117.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1097645554" Position="27.5,123.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="1830012380" Variation="7" Position="123,138.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="575568402" Position="140.5,124.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="79191330" Variation="6" Position="24,110.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="681428410" Variation="8" Position="46,32.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="2058903075" Variation="1" Position="46,28.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="2141472756" Variation="3" Position="91,140.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="960126209" Variation="8" Position="151,150.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="864589923" Variation="8" Position="17,150.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1696683291" Position="143.5,15.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="716564084" Position="39.5,81.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="853376851" Variation="2" Position="17,27.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1720863310" Variation="2" Position="151,140.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1023541977" Position="23,114.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1382820720" Position="140.5,60.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="638354175" Position="152.5,85.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="51465996" Position="32.5,44.5,0" Scale="1,1,1" UnitType="VespeneGeyserFootprintTest"/>
+    <ObjectUnit Id="1297737236" Position="49.5,143.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1964522166" Variation="9" Position="77,141.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="492081205" Variation="8" Position="144,55.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="251352177" Variation="1" Position="153,147.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="849945405" Variation="1" Position="122,139.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="561253625" Variation="2" Position="144,89.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1695822805" Variation="4" Position="16,146.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1848763130" Variation="5" Position="122,133.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="802173134" Variation="6" Position="123,136.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+</PlacedObjects>
