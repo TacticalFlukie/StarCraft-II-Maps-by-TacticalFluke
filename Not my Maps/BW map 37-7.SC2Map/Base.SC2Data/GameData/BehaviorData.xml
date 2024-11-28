@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CBehaviorResource id="RawVespeneGeyserGas2">
+        <InfoFlags index="Hidden" value="1"/>
+        <InfoIcon value="Assets\Textures\icon-gas.dds"/>
+        <Capacity value="32000"/>
+        <HarvestAmount value="4"/>
+        <DepletionVariationCount value="4"/>
+    </CBehaviorResource>
+</Catalog>

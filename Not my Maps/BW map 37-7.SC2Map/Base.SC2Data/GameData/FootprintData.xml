@@ -112,18 +112,18 @@
             </Sets>
             <Rows value="..ooooo.."/>
             <Rows value=".ooooooo."/>
-            <Rows value="ooooooooo"/>
-            <Rows value="oooxxxooo"/>
-            <Rows value="oooxxxooo"/>
-            <Rows value="oooxxxooo"/>
-            <Rows value="ooooooooo"/>
+            <Rows value="ooxxxxxoo"/>
+            <Rows value="ooxxxxxoo"/>
+            <Rows value="ooxxxxxoo"/>
+            <Rows value="ooxxxxxoo"/>
+            <Rows value="ooxxxxxoo"/>
             <Rows value=".ooooooo."/>
             <Rows value="..ooooo.."/>
         </Layers>
         <Shape>
-            <Radius value="3.2016"/>
-            <Offsets value="-1.5,-2;1.5,-2;-1.5,2;1.5,2;-2,-1.5;-2,1.5;2,-1.5;2,1.5;-2.5,2;-2,2.5;-2.5,-2;2,2.5;-2,-2.5;2.5,2;2,-2.5;2.5,-2"/>
-            <Borders value="0,12,2;1,0,2;2,3,2;3,11,2;4,5,2;5,8,2;6,15,2;7,6,2;8,9,2;9,2,2;10,4,2;11,13,2;12,10,2;13,7,2;14,1,2;15,14,2"/>
+            <Radius value="3.8891"/>
+            <Offsets value="-2.75,-2.75;2.75,-2.75;-2.75,2.75;2.75,2.75"/>
+            <Borders value="0,2,0;1,0,0;2,3,0;3,1,0"/>
         </Shape>
     </CFootprint>
     <CFootprint id="FootprintGeyserRoundedGeyserGate">

@@ -2,7 +2,7 @@
 // 
 // Generated Map Script
 // 
-// Name:   Just Another StarCraft II Map
+// Name:   [SC: Evo Complete] Hydrocarbon (????????????) PTE
 // 
 //==================================================================================================
 include "TriggerLibs/NativeLib"
@@ -18,17 +18,41 @@ void InitLibs () {
 // Trigger Variables
 //--------------------------------------------------------------------------------------------------
 trigger gt_MeleeInitialization;
+trigger gt_MakeZeroGas;
 
 //--------------------------------------------------------------------------------------------------
 // Trigger: Melee Initialization
 //--------------------------------------------------------------------------------------------------
 bool gt_MeleeInitialization_Func (bool testConds, bool runActions) {
+    // Variable Declarations
+    int lv_currPlayer;
+    unit lv_currUnit;
+
     // Automatic Variable Declarations
+    unitgroup autoA9C726A9_g;
+    int autoA9C726A9_u;
+    playergroup autoD86C5AA2_g;
+
+    // Variable Initialization
+
     // Actions
     if (!runActions) {
         return true;
     }
 
+    autoA9C726A9_g = UnitGroup("Assimilator", 0, RegionEntireMap(), UnitFilter(0, 0, (1 << c_targetFilterMissile), (1 << (c_targetFilterDead - 32)) | (1 << (c_targetFilterHidden - 32))), 0);
+    autoA9C726A9_u = UnitGroupCount(autoA9C726A9_g, c_unitCountAll);
+    for (;; autoA9C726A9_u -= 1) {
+        lv_currUnit = UnitGroupUnitFromEnd(autoA9C726A9_g, autoA9C726A9_u);
+        if (lv_currUnit == null) { break; }
+        autoD86C5AA2_g = PlayerGroupAll();
+        lv_currPlayer = -1;
+        while (true) {
+            lv_currPlayer = PlayerGroupNextPlayer(autoD86C5AA2_g, lv_currPlayer);
+            if (lv_currPlayer < 0) { break; }
+            VisRevealArea(lv_currPlayer, RegionCircle(UnitGetPosition(lv_currUnit), 0.1), 0.1, false);
+        }
+    }
     MeleeInitResources();
     MeleeInitUnits();
     MeleeInitAI();
@@ -43,10 +67,50 @@ void gt_MeleeInitialization_Init () {
 }
 
 //--------------------------------------------------------------------------------------------------
+// Trigger: Make ZeroGas
+//--------------------------------------------------------------------------------------------------
+bool gt_MakeZeroGas_Func (bool testConds, bool runActions) {
+    // Variable Declarations
+    point lv_posUnit;
+
+    // Automatic Variable Declarations
+    // Variable Initialization
+    lv_posUnit = UnitGetPosition(EventUnit());
+
+    // Conditions
+    if (testConds) {
+        if (!((UnitGetOwner(EventUnit()) == 0))) {
+            return false;
+        }
+
+        if (!((UnitGetType(EventUnit()) == "Assimilator"))) {
+            return false;
+        }
+    }
+
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    UnitRemove(UnitGroupClosestToPoint(UnitGroupSearch(null, 0, lv_posUnit, 3.0, UnitFilter(0, 0, (1 << c_targetFilterMissile), (1 << (c_targetFilterDead - 32)) | (1 << (c_targetFilterHidden - 32))), 0), lv_posUnit));
+    Wait(0.1, c_timeGame);
+    libNtve_gf_CreateUnitsWithDefaultFacing(1, "VespeneGeyserFootprintTest", 0, 0, lv_posUnit);
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_MakeZeroGas_Init () {
+    gt_MakeZeroGas = TriggerCreate("gt_MakeZeroGas_Func");
+    TriggerAddEventUnitDied(gt_MakeZeroGas, null);
+}
+
+//--------------------------------------------------------------------------------------------------
 // Trigger Initialization
 //--------------------------------------------------------------------------------------------------
 void InitTriggers () {
     gt_MeleeInitialization_Init();
+    gt_MakeZeroGas_Init();
 }
 
 //--------------------------------------------------------------------------------------------------

@@ -1,9 +1,7 @@
 ﻿Actor/Name/DestructibleRockEx16x62=Destructible Rock Ex16x6
 Actor/Name/RedstoneRockSpires2=BW Desert Rock Spires
-Actor/Name/VespeneGeyser2=Vespene Geyser
-Actor/Name/VespeneGeyser3=Vespene Geyser
-Actor/Name/VespeneGeyser4=Vespene Geyser
 Actor/Name/VespeneGeyser5=Vespene Geyser
+Behavior/Name/RawVespeneGeyserGas2=Gas (Raw Vespene Geyser) - Zero
 Cliff/Name/BWDesert00=BWDesert00
 Footprint/EditorSuffix/FootprintGeyserGate=(Vespene Geyser Rounded)
 Footprint/EditorSuffix/FootprintGeyserGate2=(Vespene Geyser Rounded)
@@ -30,4 +28,5 @@ TerrainTex/Name/BWDesert_7=BW Desert Dried Mud
 TerrainTex/Name/BWDesert_8=BW Desert Dirt High
 TerrainTex/Name/BWDesert_9=BW Desert Bridge
 Unit/EditorSuffix/DestructibleRockEx16x62=- Ex1- 6x6
+Unit/EditorSuffix/VespeneGeyserFootprintTest=(Footprint Large)
 Water/Name/BWTar=BW Tar
