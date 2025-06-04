@@ -1,0 +1,3 @@
+﻿Light/Name/BWJungle=BWJungle Final
+Water/Name/Shakuras222=_BW Water 2
+Water/Name/Shakuras23=_BW Water

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CWater id="Agria2">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="6.000000"/>
+            <Color value="0.647059,0.674510,0.721569,0.300000"/>
+            <ColorFallOff value="0.100000"/>
+            <Specularity value="100.000000"/>
+            <SpecularScaler value="2.450000"/>
+            <UvRate value="-0.000000,-0.001000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.012000"/>
+            <RefractionDistortion value="0.020000"/>
+            <MinReflection value="0.300000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <BeachShoreline value="BelShirBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+    </CWater>
+    <CWater id="Evo_JungleTemple_HighWater">
+        <State index="0" Height="9.400000"/>
+    </CWater>
+    <CWater id="Evo_JungleTemple_LowWater">
+        <State index="0" Height="9.900000"/>
+    </CWater>
+    <CWater id="Evo_JungleWorld_Water">
+        <State index="0" Height="11.700000"/>
+    </CWater>
+    <CWater id="Evo_NerazimIcelands_Water">
+        <State index="0" Height="9.000000"/>
+    </CWater>
+    <CWater id="Shakuras2">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="7.600000"/>
+            <Color value="0.054902,0.121569,0.203922,0.000000"/>
+            <ColorFallOff value="0.000000"/>
+            <Specularity value="0.000000"/>
+            <SpecularScaler value="0.000000"/>
+            <UvRate value="-0.000000,-0.001000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.000000"/>
+            <RefractionDistortion value="0.000000"/>
+            <MinReflection value="0.000000"/>
+            <ReflectivityPower value="0.000000"/>
+        </State>
+        <CausticsFPS value="0.000000"/>
+        <ReceiveShadows value="1"/>
+        <IsLava value="1"/>
+        <LavaModel value="NewLavaWater"/>
+        <ReflectionCubeMap value="Assets\Textures\Caev_Environment2.dds"/>
+        <TilingFreq value="0.065200,0.065200,0.065200,0.065200"/>
+    </CWater>
+    <CWater id="Shakuras22">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="9.150000"/>
+            <Color value="0.054902,0.121569,0.203922,0.000000"/>
+            <ColorFallOff value="0.000000"/>
+            <Specularity value="0.000000"/>
+            <SpecularScaler value="0.000000"/>
+            <UvRate value="-0.000000,-0.001000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.000000"/>
+            <RefractionDistortion value="0.000000"/>
+            <MinReflection value="0.000000"/>
+            <ReflectivityPower value="0.000000"/>
+        </State>
+        <CausticsFPS value="0.000000"/>
+        <ReceiveShadows value="1"/>
+        <IsLava value="1"/>
+        <LavaModel value="NewLavaWater"/>
+        <ReflectionCubeMap value="Assets\Textures\Caev_Environment2.dds"/>
+        <TilingFreq value="0.065200,0.065200,0.065200,0.065200"/>
+        <Doodads>
+            <Model value="BelShirWaterDoodadLilyPad"/>
+            <Density value="0.010000"/>
+            <MinSize value="2.000000"/>
+            <MaxSize value="2.000000"/>
+            <Lifetime value="15"/>
+        </Doodads>
+        <Sound value="Emitter_WaterLaps_Shore"/>
+    </CWater>
+    <CWater id="Shakuras222">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="18.100000"/>
+            <Color value="0.054902,0.349020,0.372549,0.000000"/>
+            <ColorFallOff value="0.000000"/>
+            <Specularity value="0.000000"/>
+            <SpecularScaler value="0.000000"/>
+            <UvRate value="-0.000000,-0.001000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.000000"/>
+            <RefractionDistortion value="0.000000"/>
+            <MinReflection value="0.000000"/>
+            <ReflectivityPower value="0.000000"/>
+        </State>
+        <CausticsFPS value="0.000000"/>
+        <ReceiveShadows value="1"/>
+        <IsLava value="1"/>
+        <LavaModel value="NewLavaWater2"/>
+        <ReflectionCubeMap value="Assets\Textures\Caev_Environment2.dds"/>
+    </CWater>
+    <CWater id="Shakuras23">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="13.750000"/>
+            <Color value="0.054902,0.121569,0.203922,0.000000"/>
+            <ColorFallOff value="0.000000"/>
+            <Specularity value="0.000000"/>
+            <SpecularScaler value="0.000000"/>
+            <UvRate value="-0.000000,-0.001000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.000000"/>
+            <RefractionDistortion value="0.000000"/>
+            <MinReflection value="0.000000"/>
+            <ReflectivityPower value="0.000000"/>
+        </State>
+        <CausticsFPS value="0.000000"/>
+        <ReceiveShadows value="1"/>
+        <IsLava value="1"/>
+        <LavaModel value="NewLavaWater"/>
+        <ReflectionCubeMap value="Assets\Textures\Caev_Environment2.dds"/>
+    </CWater>
+</Catalog>

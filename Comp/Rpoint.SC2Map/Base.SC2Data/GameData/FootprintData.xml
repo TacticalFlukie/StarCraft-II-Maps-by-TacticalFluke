@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CFootprint id="Footprint4x4">
+        <Shape>
+            <Radius value="0"/>
+            <Offsets value=""/>
+            <Borders value=""/>
+        </Shape>
+    </CFootprint>
+</Catalog>

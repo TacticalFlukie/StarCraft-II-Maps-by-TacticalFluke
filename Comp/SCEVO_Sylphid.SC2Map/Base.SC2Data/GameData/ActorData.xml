@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CActorDoodad id="Aiur_Temple_Bigwalls">
+        <On index="0" Send="$Stand PlayForever,RandomStartOffset"/>
+        <On index="1" removed="1"/>
+    </CActorDoodad>
+    <CActorDoodad id="BWJungleGrassThick">
+        <Aliases value="_CreepEngulfable"/>
+        <On index="0" Terms="ActorCreation" Send="$Stand PlayForever,RandomStartOffset"/>
+        <On index="1" Terms="Creep.*.Grow" Send="StatusIncrement Creep"/>
+        <On Terms="StatusOn.*.Creep" Send="Destroy"/>
+        <On Terms="Creep.*.Place" Send="Destroy"/>
+        <InternalSplatHeight value="MinimumActor"/>
+        <CreepHeightClass value="Small"/>
+        <RandomScaleRange value="0.600000,0.700000"/>
+        <Facing value="88.9892"/>
+    </CActorDoodad>
+    <CActorDoodad id="BWJungleGrassThickSmall">
+        <Aliases value="_CreepEngulfable"/>
+        <On index="0" Terms="ActorCreation" Send="$Stand PlayForever,RandomStartOffset"/>
+        <On index="1" Terms="Creep.*.Grow" Send="StatusIncrement Creep"/>
+        <On Terms="StatusOn.*.Creep" Send="Destroy"/>
+        <On Terms="Creep.*.Place" Send="Destroy"/>
+        <Model value="BWJungleGrassThick2"/>
+        <InternalSplatHeight value="MinimumActor"/>
+        <CreepHeightClass value="Small"/>
+        <RandomScaleRange value="0.600000,0.700000"/>
+        <Facing value="88.9892"/>
+    </CActorDoodad>
+    <CActorDoodad id="BWJungleGrassTrims">
+        <Aliases value="_CreepEngulfable"/>
+        <On index="0" Terms="ActorCreation" Send="$Stand PlayForever,RandomStartOffset"/>
+        <On index="1" Terms="Creep.*.Grow" Send="StatusIncrement Creep"/>
+        <On Terms="StatusOn.*.Creep" Send="$Death PlayForever"/>
+        <On Terms="Creep.*.Place" Send="$Death PlayForever"/>
+        <Model value="DOM_GroundTrims2"/>
+        <InternalSplatHeight value="MinimumActor"/>
+        <CreepHeightClass value="Small"/>
+        <EditorFlags index="NoAutoRotate" value="1"/>
+        <RandomScaleRange value="1.000000,1.000000"/>
+    </CActorDoodad>
+    <CActorUnit id="ProtossCrates">
+        <Wireframe>
+            <Image value="Assets\Textures\wireframe-protoss-biomassstorage.dds"/>
+        </Wireframe>
+    </CActorUnit>
+    <CActorDoodad id="PureDesertMediumRock">
+        <EditorCategories value="DoodadType:Environment"/>
+        <On index="0" Terms="ActorCreation" Send="Create SoundEmitter Doodad_Elsecaro_Medium_Rock"/>
+        <Model value="Elsecaro_Medium_Rock3"/>
+        <RandomScaleRange value="1.000000,1.000000"/>
+    </CActorDoodad>
+    <CActorUnit id="KakaruFlyer" parent="GenericUnitCritter" unitName="KakaruRed">
+        <Aliases value="_UnitSmall"/>
+        <On Terms="ActorCreation" Send="AnimGroupApply Cover"/>
+        <On Terms="Effect.Suicide.Start" Send="Create CritterExplosion"/>
+        <Model value="KakaruFlyer"/>
+        <BuildModel value="KakaruFlyer"/>
+        <DeathArray index="Normal" ModelLink="KakaruFlyerDeath" SoundLink="Zerg_ExplosionSmall"/>
+        <PlacementModel value="KakaruFlyer"/>
+        <PortraitModel value="SwarmHostSpawnPortrait2"/>
+        <WalkAnimMoveSpeed value="2.25"/>
+        <BarOffset value="45"/>
+        <BarWidth value="36"/>
+        <GroupIcon>
+            <Image value="Assets\Textures\wireframe-critter-kakaru.dds"/>
+        </GroupIcon>
+        <HighlightTooltip value="Unit/Name/KakaruFlyer"/>
+        <SoundArray index="What" value="CarrionBird_What"/>
+        <SoundArray index="Yes" value="CarrionBird2_What"/>
+        <SoundArray index="Movement" value=""/>
+        <StatusBarFlags index="Shields" value="0"/>
+        <StatusBarFlags index="Energy" value="0"/>
+        <StatusBarFlags index="Cargo" value="0"/>
+        <StatusBarFlags index="Progress" value="0"/>
+        <StatusBarFlags index="Duration" value="0"/>
+        <StatusBarFlags index="Magazine" value="0"/>
+        <UnitIcon value="Assets\Textures\btn-unit-critter-kakaru-red.dds"/>
+        <Wireframe>
+            <Image value="Assets\Textures\wireframe-critter-kakaru.dds"/>
+        </Wireframe>
+    </CActorUnit>
+    <CActorDoodad id="BWJungleCliffs">
+        <EditorCategories value="DoodadType:Environment"/>
+        <On index="0" Terms="ActorCreation" Send="Create SoundEmitter Doodad_SnowRefinery_RockCliffs_Large"/>
+        <Model value="SnowRefinery_RockCliffs_Large2"/>
+        <EditorFlags index="NoAutoRotate" value="1"/>
+        <RandomScaleRange value="1.000000,1.000000"/>
+    </CActorDoodad>
+    <CActorDoodad id="SmokePillar_Tall_Generic">
+        <FogVisibility value="Dimmed"/>
+        <DoodadFlags index="PauseAnimsWhileFogged" value="0"/>
+    </CActorDoodad>
+    <CActorDoodad id="TempleArch">
+        <VisibleOpacity value="0.500000"/>
+        <VisibleOpacityBlendDuration value="0.250000"/>
+    </CActorDoodad>
+    <CActorDoodad id="WaterPuddle2">
+        <On index="0" Terms="ActorCreation" Send="Create SoundEmitter Doodad_WaterPuddle"/>
+        <On Terms="Creep.*.Grow" Send="StatusIncrement Creep"/>
+        <On Terms="Creep.*.Place" Send="Destroy"/>
+        <On Terms="StatusOn.*.Creep" Send="Destroy"/>
+        <Model value="WaterPuddle"/>
+        <EditorFlags index="NoAutoRotate" value="1"/>
+        <RandomScaleRange value="1.000000,1.000000"/>
+    </CActorDoodad>
+</Catalog>

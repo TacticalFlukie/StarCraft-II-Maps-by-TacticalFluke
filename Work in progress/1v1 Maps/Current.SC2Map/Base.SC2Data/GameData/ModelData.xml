@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CModel id="City_Plane_Background">
+        <Model value="Assets\Skyboxes\SMX2_Background_Starfield_Generic\SMX2_Background_Starfield_Generic.m3"/>
+    </CModel>
+    <CModel id="DestructibleRockEx16x6">
+        <TextureAppliedGroups value="zhakuldas"/>
+    </CModel>
+    <CModel id="PortCity_GroundLights">
+        <Model value="Assets\StoryModeSets\Protoss\SMX2_ShipRoom_SunFlare\SMX2_ShipRoom_SunFlare.m3"/>
+        <Radius value="0.100000"/>
+        <ScaleMax value="40.000000,40.000000,40.000000"/>
+        <ScaleMin value="40.000000,40.000000,40.000000"/>
+    </CModel>
+    <CModel id="PortCity_Hospital">
+        <Model value="Assets\StoryModeSets\Protoss\SMX2_ShipRoom_SunCore\SMX2_ShipRoom_SunCore.m3"/>
+        <ScaleMax value="5.000000,5.000000,5.000000"/>
+        <ScaleMin value="5.000000,5.000000,5.000000"/>
+    </CModel>
+    <CModel id="PortCity_Stadium">
+        <Model value="Assets\UI\Glues\SMX3_UI_Screen_CollectionsBG\SMX3_UI_Screen_CollectionsBG_01.m3"/>
+        <ScaleMax value="5.000000,5.000000,5.000000"/>
+        <ScaleMin value="5.000000,5.000000,5.000000"/>
+    </CModel>
+    <CModel id="PortCity_Stadium_Destroyed">
+        <Model value="Assets\StoryModeScenes\SMX3_MP02_005_Planet\SMX3_MP02_005_Planet.m3"/>
+        <ScaleMax value="5.000000,5.000000,5.000000"/>
+        <ScaleMin value="5.000000,5.000000,5.000000"/>
+    </CModel>
+    <CModel id="Slayn_Road">
+        <VariationCount value="6"/>
+    </CModel>
+    <CModel id="StarshipIceWorldMinerals">
+        <Model value="Assets\StoryModeScenes\SMX3_Background_Starfield_Generic\SMX3_Background_Starfield_Generic.m3"/>
+        <VariationCount value="1"/>
+    </CModel>
+</Catalog>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preload>
+<Asset path="assets\ui\btn_ui_tip_crate.dds" Type="Image"/>
+<Actor id="SYSTEM_ActorConfig"/>
+<Actor id="AiurTree_Ex2" Variations="0,1,2,3,4"/>
+<Actor id="Aiur_CliffRocks_Islands" Variations="0,1"/>
+<Actor id="Aiur_MossClumps"/>
+<Actor id="Aiur_Overgrowth" Variations="0,1,2,3,4,5"/>
+<Actor id="Aiur_Plantlife" Variations="6,8,9,10,12"/>
+<Actor id="Aiur_PowerCrystal"/>
+<Actor id="Aiur_Stone_Temple"/>
+<Actor id="Aiur_Temple_BrickGroup" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Actor id="Aiur_Temple_Bricks" Variations="0,1,2,3,4,5"/>
+<Actor id="Aiur_Temple_Pillars" Variations="0,1,2,3"/>
+<Actor id="Aiur_Temple_Statue_ZealotBust" Variations="1"/>
+<Actor id="Aiur_Temple_Statue_ZealotBust_Crumbled" Variations="0,1,3,4"/>
+<Actor id="Aiur_Tree_Large" Variations="0,1,2"/>
+<Actor id="Aiur_Trees_Log" Variations="0,3"/>
+<Actor id="BlastCratersDoodad" Variations="1"/>
+<Actor id="BonesYeti" Variations="1"/>
+<Actor id="Elsecaro_Large_Rock" Variations="4"/>
+<Actor id="Elsecaro_Medium_Rock" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Actor id="Elsecaro_Medium_Rock_Group" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="Elsecaro_Small_Rock_Group" Variations="0,1"/>
+<Actor id="Elsecaro_Tree" Variations="3,5,6"/>
+<Actor id="JarbanMinor_TreeStump"/>
+<Actor id="PurificationDesert_Large_Rock" Variations="0,1,2,3,4,5,6"/>
+<Actor id="PurificationDesert_Medium_Rock_Group" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="PurificationDesert_Small_Rock_Group" Variations="0,1,2,3"/>
+<Actor id="Purifier_Foliage" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Actor id="Slayn_BrickFloor"/>
+<Actor id="Slayn_StoneDoodads_Temple" Variations="1,2"/>
+<Actor id="Slayn_Stone_Bricks_Crumbled" Variations="0,1,2,3,4,5,6,7,9"/>
+<Actor id="SmokePillar_Tall_Generic"/>
+<Actor id="ZerusGroundVines" Variations="0,1,2"/>
+<Actor id="ZerusLargeTreeShadow"/>
+<Actor id="ZerusTallGrassCluster" Variations="1"/>
+<Actor id="AiurCurtain" Variations="0,1,2,3"/>
+<Actor id="BelShirCliffGapFiller"/>
+<Actor id="BelShirCurtain" Variations="0,1,2,3"/>
+<Actor id="BelShirCanopyTrees" Variations="0,1,6"/>
+<Actor id="BelShirFoliage" Variations="0,1,2,3,4,5"/>
+<Actor id="BelShirTree" Variations="0,1,2,3,7"/>
+<Actor id="Birds"/>
+<Actor id="Bush" Variations="0,1,2"/>
+<Actor id="CharBones" Variations="2,3"/>
+<Actor id="DustLeaves"/>
+<Actor id="FogStormDeepWhite"/>
+<Actor id="MarSaraBones" Variations="0,1,2,3,4"/>
+<Actor id="MarSaraCurtain" Variations="0,1,2,3"/>
+<Actor id="MarSaraSkeletonLarge" Variations="0,1"/>
+<Actor id="MarSaraSkeletonSmall" Variations="0,1"/>
+<Actor id="RedstoneRockSpires" Variations="0,1,2,3,4"/>
+<Actor id="RockLarge" Variations="10,11,12,13,14,15,16,17"/>
+<Actor id="RockSmall" Variations="0,1"/>
+<Actor id="SpacePlatformReactor" Variations="3"/>
+<Actor id="Sunrays"/>
+<Actor id="TarsonisTree" Variations="1"/>
+<Actor id="TempleArch" Variations="1"/>
+<Actor id="TempleBridgeBroken"/>
+<Actor id="TempleCliffSection"/>
+<Actor id="TempleColumnWalls" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="TempleDebris" Variations="1,4"/>
+<Actor id="TempleStatue" Variations="0,1,2,3,4"/>
+<Actor id="TempleWallCorner" Variations="0"/>
+<Actor id="TempleGatePiece" Variations="0,1,2"/>
+<Actor id="Vines" Variations="4"/>
+<Actor id="HavenCurtain" Variations="0,3"/>
+<Actor id="MarSaraFoliage" Variations="0,1,2,3"/>
+<Actor id="TyphonTree" Variations="0,1,2,3,4,5,6"/>
+<Actor id="BelShirFlowers" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Actor id="BWJungleGrassThick"/>
+<Actor id="BWJungleGrassThickSmall"/>
+<Actor id="PureDesertMediumRock" Variations="1,4,5,6,7,8"/>
+<Actor id="BWJungleCliffs" Variations="0,1,2"/>
+<Terrain id="BWJungle2"/>
+<Unit id="MineralField750" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Unit id="VespeneGeyser"/>
+<Unit id="CollapsibleRockTowerDiagonal"/>
+<Unit id="ProtossCrates" Variations="0"/>
+<Unit id="KakaruRed"/>
+</Preload>

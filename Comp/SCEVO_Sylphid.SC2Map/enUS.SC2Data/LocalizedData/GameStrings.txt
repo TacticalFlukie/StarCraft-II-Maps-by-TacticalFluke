@@ -1,0 +1,10 @@
+﻿Button/Tooltip/ProtossCrates=A destructible blocker that can be removed to free up space.
+DocInfo/DescLong=The Official SC: Evo Complete port of Sylphid.<n/>SC: Evo Complete 제작진의 공식 실피드 버전입니다. <n/>官方 SC: Evo 完全移植新仙女<n/>LatiAs / Avex / HyperONE / Caerei / Kat
+DocInfo/DescShort=1v1
+DocInfo/Name=[SC: Evo Complete] Sylphid (네오 실피드) TE
+Param/Value/54B3B890=Destructible Crate
+Param/Value/AFF9E6B9=This is a destructible crate emulating the "Zerg Egg" from Brood War maps. They have 200 health, 10 armor, and occupy exactly one grid of space.
+Param/Value/D61104BA=Destructible Crate
+Terrain/Name/BWJungle2=BW Jungle
+Unit/Name/KakaruRed=Kakaru
+Unit/Name/ProtossCrates=Destructible Crate

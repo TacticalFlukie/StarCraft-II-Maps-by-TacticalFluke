@@ -2,7 +2,12 @@
 <Preload>
 <Actor id="SYSTEM_ActorConfig"/>
 <Terrain id="AiurCity"/>
+<Unit id="Mothership"/>
+<Unit id="Marine"/>
 <Unit id="Hatchery"/>
+<Unit id="EvolutionChamber"/>
+<Unit id="SporeCrawler"/>
+<Unit id="Drone"/>
 <Unit id="RichMineralField750" Variations="0,1,2,3,4,5,6,7,8,9"/>
 <Unit id="RichVespeneGeyser"/>
 <Unit id="DestructibleRockEx1DiagonalHugeBLUR"/>

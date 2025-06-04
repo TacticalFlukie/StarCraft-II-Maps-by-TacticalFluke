@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CUnit id="CollapsibleRockTowerDiagonal">
+        <LifeStart value="1000"/>
+        <LifeMax value="1000"/>
+        <LifeArmor value="10"/>
+    </CUnit>
+    <CUnit id="KakaruRed" parent="Critter">
+        <Description value="Button/Tooltip/CritterKakaruRed"/>
+        <Mob value="Multiplayer"/>
+        <Collide index="Ground" value="0"/>
+        <Collide index="ForceField" value="0"/>
+        <Collide index="Locust" value="0"/>
+        <Collide index="Small" value="0"/>
+        <Collide index="Flying" value="1"/>
+        <Speed value="1.875"/>
+        <Height value="6"/>
+        <BehaviorArray Link="CritterWander2"/>
+        <EditorCategories value="ObjectType:Unit,ObjectFamily:Campaign"/>
+        <Fidget DistanceMax="100" DistanceMin="60"/>
+    </CUnit>
+    <CUnit id="ProtossCrates">
+        <LifeStart value="200"/>
+        <LifeMax value="200"/>
+        <LifeArmor value="10"/>
+        <FlagArray index="Unselectable" value="0"/>
+    </CUnit>
+</Catalog>

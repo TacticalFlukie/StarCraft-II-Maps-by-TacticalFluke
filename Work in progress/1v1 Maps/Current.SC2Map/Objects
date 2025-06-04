@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectDoodad Id="1752766714" Variation="1" Position="146.0317,48.6943,9.287" Rotation="1.404" Scale="1,1,1" Type="Elsecaro_Catamaran">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1608233586" Variation="2" Position="79.5,75.5,7.9997" Rotation="3.141" Scale="1,1,1" Type="AgriaCurtain" TintColor="0,255,255 2.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2028734328" Variation="2" Position="82.5,80.5,7.9997" Rotation="6.281" Scale="1,1,1" Type="AgriaCurtain" TintColor="0,255,255 2.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1145669441" Position="85.3435,34.7663,12.694" Rotation="5.1035" Scale="0.8864,0.8864,0.8864" Type="Sunrays" TintColor="0,255,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="868476591" Position="10.5788,96.2861,13.688" Rotation="6.2175" Scale="4.9956,4.9956,4.9956" Type="PortCity_Stadium">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1081192791" Variation="2" Position="18.6113,100.4892,11.0852" Rotation="3.1413" Scale="1,1,1" Type="Elsecaro_Buoy_Destroyed">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="55940662" Position="14.3791,143.3183,7.9995" Rotation="5.8488" Scale="4.4426,4.4426,4.4426" Type="LightOmniYellowLarge">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1429501897" Variation="1" Position="111.0397,68.3098,7.9943" Rotation="0.9267" Scale="1,1,1" Type="StarshipIceWorldMinerals" TintColor="255,255,255 2.000000">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="17774933" Position="129.4001,80.4577,9.999" Rotation="5.1035" Scale="0.8864,0.8864,0.8864" Type="Sunrays" TintColor="0,255,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1551159761" Variation="2" Position="80.5,80.5,7.9997" Rotation="6.281" Scale="1,1,1" Type="AgriaCurtain" TintColor="0,255,255 2.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="840824976" Variation="2" Position="84.5,81.5,8.016" Rotation="6.281" Scale="1,1,1" Type="AgriaCurtain" TintColor="0,255,255 2.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2105749138" Variation="3" Position="22.2524,149.4057,9.6103" Rotation="4.5454" Scale="1,1,1" Type="Elsecaro_Catamaran">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1432710211" Variation="2" Position="78.5,75.5,7.9997" Rotation="3.141" Scale="1,1,1" Type="AgriaCurtain" TintColor="0,255,255 2.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1134760440" Variation="1" Position="13.968,107.3054,9.287" Rotation="4.5456" Scale="1,1,1" Type="Elsecaro_Catamaran">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1208338116" Position="15.2973,142.8493,12.5322" Rotation="3.141" Scale="5,5,5" Type="PortCity_Hospital">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1400887136" Position="145.6206,12.6813,7.9995" Rotation="2.7087" Scale="4.4426,4.4426,4.4426" Type="LightOmniYellowLarge">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="356171954" Position="145.0202,12.1938,10.2944" Rotation="4.489" Scale="5,5,5" Type="PortCity_GroundLights">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1574801640" Variation="2" Position="81.5,80.5,7.9997" Rotation="6.281" Scale="1,1,1" Type="AgriaCurtain" TintColor="0,255,255 2.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2056391208" Variation="2" Position="75.5,74.5,8.0031" Rotation="3.141" Scale="1,1,1" Type="AgriaCurtain" TintColor="0,255,255 2.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1443242113" Position="149.421,59.7136,13.6882" Rotation="3.076" Scale="4.9956,4.9956,4.9956" Type="PortCity_Stadium">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2010594507" Position="104.1328,157.8642,11.4711" Scale="3.908,3.908,3.908" Type="PortCity_Stadium_Destroyed">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="723541593" Variation="3" Position="137.7473,6.594,9.6103" Rotation="1.402" Scale="1,1,1" Type="Elsecaro_Catamaran">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="114676001" Variation="2" Position="76.5,74.5,7.9997" Rotation="3.141" Scale="1,1,1" Type="AgriaCurtain" TintColor="0,255,255 2.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="346072251" Variation="7" Position="48.0236,59.8652,7.9992" Rotation="3.141" Scale="2.13,2.13,2.13" Type="JarbanMinor_Medium_Rock_Group">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1507531218" Variation="7" Position="111.976,96.1345,7.9992" Scale="2.13,2.13,2.13" Type="JarbanMinor_Medium_Rock_Group" TeamColor="12">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2131318966" Variation="2" Position="141.3884,55.5104,11.0852" Scale="1,1,1" Type="Elsecaro_Buoy_Destroyed">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2051572043" Variation="4" Position="45.7751,87.3515,9.9904" Rotation="3.8286" Scale="1,1,1" Type="DominionLandingPad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2001967763" Position="30.5996,75.542,9.999" Rotation="1.963" Scale="0.8864,0.8864,0.8864" Type="Sunrays" TintColor="0,255,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="147743794" Position="74.6562,121.2333,11.181" Rotation="1.963" Scale="0.8864,0.8864,0.8864" Type="Sunrays" TintColor="0,255,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1092017566" Variation="2" Position="77.5,74.5,7.9997" Rotation="3.141" Scale="1,1,1" Type="AgriaCurtain" TintColor="0,255,255 2.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1666474181" Variation="4" Position="114.2246,68.6481,9.9914" Rotation="0.687" Scale="1,1,1" Type="DominionLandingPad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="120008728" Variation="2" Position="82.5,81.5,7.9997" Rotation="6.281" Scale="1,1,1" Type="AgriaCurtain" TintColor="0,255,255 2.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2111825097" Variation="2" Position="77.5,75.5,7.9997" Rotation="3.141" Scale="1,1,1" Type="AgriaCurtain" TintColor="0,255,255 2.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="812314355" Position="14.9794,143.806,10.2944" Rotation="1.346" Scale="5,5,5" Type="PortCity_GroundLights">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1473352068" Position="144.7023,13.1503,12.5322" Scale="5,5,5" Type="PortCity_Hospital">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="261067027" Variation="2" Position="83.5,81.5,7.9997" Rotation="6.281" Scale="1,1,1" Type="AgriaCurtain" TintColor="0,255,255 2.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectPoint Id="557191178" Position="62.5,131.5,0" Rotation="3.1413" Scale="1,1,1" Type="StartLoc" Name="Start Location 002" Color="0,0,0,0"/>
+    <ObjectPoint Id="406206" Position="97.5,24.5,0" Scale="1,1,1" Type="StartLoc" Name="Start Location 001" Color="0,0,0,0"/>
+    <ObjectUnit Id="798504434" Variation="2" Position="100,18.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1436789361" Position="37,83,0" Rotation="0.349" Scale="0.7998,0.7998,0.7998" UnitType="DestructibleExpeditionGate6x6"/>
+    <ObjectUnit Id="1027608637" Variation="6" Position="135,34.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1156515758" Variation="6" Position="68,113.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="519223149" Position="136,33.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1579917245" Variation="8" Position="29,100.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="975137019" Position="90.5,26.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="1557245033" Position="69,117.5,0" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="946636608" Position="43,37.5,0" Scale="1,1,1" UnitType="MineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="2053844763" Position="77,75,0" Rotation="3.2827" Scale="1,1,1" UnitType="DestructibleIce6x6"/>
+    <ObjectUnit Id="1083749501" Variation="4" Position="25,123.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1827403339" Position="33,104.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="423048546" Position="49.5,39.5,0" Scale="1,1,1" UnitType="Hatchery">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="239524353" Variation="5" Position="67,137.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="982356601" Position="105.5,56.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="WarpGate"/>
+    <ObjectUnit Id="1151303114" Position="124.5,57.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="830806356" Variation="1" Position="36,104.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="393452493" Variation="1" Position="68,116.5,0" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="2040752114" Position="42.5,42.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1119894498" Position="28.5,95.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="713173906" Position="54.5,99.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="WarpGate"/>
+    <ObjectUnit Id="1870662250" Position="24,122.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="7335148" Variation="7" Position="131,53.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1822896269" Variation="1" Position="104,20.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1953062849" Variation="7" Position="97,18.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="103720265" Position="53.5,96.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="WarpGate"/>
+    <ObjectUnit Id="189025186" Position="55.5,102.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="WarpGate"/>
+    <ObjectUnit Id="1405503747" Variation="9" Position="90,37.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1071040573" Variation="7" Position="29,102.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1594433635" Variation="2" Position="60,137.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="2077048146" Position="117.5,113.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="ShakurasVespeneGeyser">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1727966799" Variation="5" Position="129,28.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="2095566291" Position="35,105.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1653986034" Position="118,104,0" Scale="1.0498,1.0498,1.0498" UnitType="DestructibleIceDiagonalHugeBLUR">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1675721232" Variation="4" Position="111,123.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="862539684" Variation="7" Position="73,118.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="574420983" Position="27.5,25.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="151147189" Position="42,117,0" Rotation="5.118" Scale="1,1,1" UnitType="Ice2x2NonConjoined"/>
+    <ObjectUnit Id="1659717908" Position="18.5,45.5,0" Rotation="1.5705" Scale="1,1,1" UnitType="CollapsibleRockTowerRampRight">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1578785909" Position="117,118.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="151860088" Variation="6" Position="32,126.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="578472279" Variation="6" Position="128,29.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="154152059" Variation="9" Position="93,41.5,0" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1116470965" Position="85.5,43.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="694532463" Variation="8" Position="110,122.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1239952982" Variation="3" Position="29,98.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="859410113" Position="30,103.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1030863801" Variation="1" Position="88,36.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="584839408" Variation="6" Position="96,17.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1569674310" Position="25.5,126.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="RichVespeneGeyser"/>
+    <ObjectUnit Id="20436459" Variation="3" Position="103,19.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="416020305" Variation="9" Position="70,118.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1642573585" Variation="4" Position="49,32.5,0" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="898667914" Position="127,51.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1810048204" Position="104.5,53.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="WarpGate"/>
+    <ObjectUnit Id="1722762934" Variation="5" Position="29,126.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="2145942508" Position="50.0322,119.6726,0" Rotation="2.574" Scale="1,1,1" UnitType="SiegeTankSieged"/>
+    <ObjectUnit Id="2104583086" Position="39.5,105.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="664661795" Position="128.5,35.5,0" Scale="1,1,1" UnitType="Hatchery">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="607328974" Variation="8" Position="50,33.5,0" Scale="1,1,1" UnitType="MineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="2145621979" Position="91,38.5,0" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1403388759" Variation="6" Position="64,138.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="890542331" Position="120,72,0" Rotation="1.0222" Scale="1,1,1" UnitType="Ice2x2NonConjoined">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="300327470" Variation="9" Position="92,40.5,0" Scale="1,1,1" UnitType="MineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="874633852" Variation="6" Position="92,42.5,0" Scale="1,1,1" UnitType="MineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="806723398" Variation="3" Position="57,136.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="36822542" Position="69.5,133.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="1748595293" Variation="6" Position="68,136.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="2076390205" Variation="5" Position="43,39.5,0" Scale="1,1,1" UnitType="MineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1681260091" Position="35.5,98.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="1664748563" Position="106.5,123.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="ShakurasVespeneGeyser">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="796040459" Position="83,81,0" Rotation="0.1408" Scale="1,1,1" UnitType="DestructibleIce6x6"/>
+    <ObjectUnit Id="447655796" Variation="1" Position="72,119.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="745299672" Position="40,84,0" Rotation="4.1638" Scale="1,1,1" UnitType="Ice2x2NonConjoined">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1628696184" Variation="9" Position="67,114.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="410526202" Position="120.5,50.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="158680130" Variation="1" Position="99,17.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1441643799" Variation="1" Position="92,39.5,0" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1881446698" Variation="6" Position="25,121.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="99065478" Variation="5" Position="31,127.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1816037319" Variation="1" Position="123,30,0" Rotation="2.0661" Scale="1,1,1" UnitType="UnbuildableBricksDestructible"/>
+    <ObjectUnit Id="1592459466" Variation="4" Position="135,32.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="2086335958" Position="125,50.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="280806772" Variation="1" Position="124,51.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1788190372" Position="74.5,112.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="249414995" Position="110.5,116.5,0" Scale="1,1,1" UnitType="Hatchery">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="131158093" Position="97.5,24.5,0" Scale="1,1,1" UnitType="Hatchery">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="686483378" Position="123,73,0" Rotation="3.4907" Scale="0.7998,0.7998,0.7998" UnitType="DestructibleExpeditionGate6x6"/>
+    <ObjectUnit Id="187081124" Variation="5" Position="47,33.5,0" Scale="1,1,1" UnitType="MineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1269639954" Variation="5" Position="131,29.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="11582561" Variation="5" Position="113,122.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1535933712" Position="134.5,29.5,0" Scale="1,1,1" UnitType="RichVespeneGeyser"/>
+    <ObjectUnit Id="53203984" Variation="9" Position="117,120.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1575804138" Position="124.5,113.5,0" Rotation="1.5705" Scale="1,1,1" UnitType="CollapsibleRockTowerRampLeft">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="666196676" Position="130,52.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="977167036" Position="35.5,42.5,0" Rotation="4.7121" Scale="1,1,1" UnitType="CollapsibleRockTowerRampLeft">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="554525094" Variation="5" Position="117,116.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1075685378" Variation="5" Position="93,18.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="875749543" Variation="1" Position="56,135.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="2109179417" Position="53.5,32.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="440912506" Variation="1" Position="37,126,0" Rotation="5.2075" Scale="1,1,1" UnitType="UnbuildableBricksDestructible"/>
+    <ObjectUnit Id="216201781" Position="62.5,131.5,0" Scale="1,1,1" UnitType="Hatchery">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1210881973" Variation="5" Position="44,34.5,0" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="844360624" Position="67.5,110.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="VespeneGeyser">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="927991101" Position="69.5,129.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="878216246" Variation="8" Position="42,38.5,0" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1786525930" Variation="3" Position="28,99.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1192344024" Variation="8" Position="118,117.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1673369854" Variation="9" Position="68,115.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="357993269" Variation="5" Position="116,121.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="70551449" Position="120,74,0" Rotation="1.6223" Scale="1,1,1" UnitType="Ice2x2NonConjoined">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1785904835" Variation="3" Position="132,56.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1009483638" Variation="9" Position="43,35.5,0" Scale="1,1,1" UnitType="MineralField750">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="953273" Position="141.5,110.5,0" Rotation="4.7121" Scale="1,1,1" UnitType="CollapsibleRockTowerRampRight">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="901018186" Position="90.5,22.5,0" Scale="1,1,1" UnitType="ShakurasVespeneGeyser"/>
+    <ObjectUnit Id="1955186519" Position="131.5,60.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="1796827697" Variation="1" Position="61,138.5,0" Scale="1,1,1" UnitType="MineralField750"/>
+    <ObjectUnit Id="1205061254" Position="106.5,59.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="WarpGate"/>
+    <ObjectUnit Id="978163251" Variation="6" Position="92,19.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1558846990" Position="31.5,120.5,0" Scale="1,1,1" UnitType="Hatchery">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="874101849" Variation="8" Position="131,55.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1509136638" Position="28.5,68.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="204683373" Variation="7" Position="87,37.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1213265654" Position="76.5,119.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="2001547245" Position="118,39,0" Rotation="1.9765" Scale="1,1,1" UnitType="Ice2x2NonConjoined"/>
+    <ObjectUnit Id="1908940374" Position="92.5,45.5,0" Scale="1,1,1" UnitType="VespeneGeyser">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="835277231" Position="42,52,0" Scale="1.0498,1.0498,1.0498" UnitType="DestructibleIceDiagonalHugeBLUR">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1167044121" Position="83.5,36.5,0" Scale="1,1,1" UnitType="VespeneGeyser"/>
+    <ObjectUnit Id="731397238" Position="132.5,130.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+    <ObjectUnit Id="1630614861" Variation="7" Position="63,137.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1936686144" Variation="3" Position="131,57.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="628295730" Position="40,82,0" Rotation="4.764" Scale="1,1,1" UnitType="Ice2x2NonConjoined">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1372245252" Position="131.5,87.5,0" Scale="1,1,1" UnitType="Hatchery"/>
+</PlacedObjects>

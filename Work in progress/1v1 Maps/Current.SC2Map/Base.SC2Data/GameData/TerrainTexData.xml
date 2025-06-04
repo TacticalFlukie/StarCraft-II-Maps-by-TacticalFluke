@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrainTex id="Elsecaro1">
+        <Normalmap value="customterrain_dunesnormal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Elsecaro3">
+        <Texture value="Assets\Textures\korhalcityex2_5.dds"/>
+        <Normalmap value="customterrain_lavacracks1normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Elsecaro5">
+        <Texture value="elsecaro_5_mod3.dds"/>
+    </CTerrainTex>
+</Catalog>

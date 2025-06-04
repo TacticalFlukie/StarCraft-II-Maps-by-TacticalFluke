@@ -1,0 +1,82 @@
+//==================================================================================================
+// 
+// Generated Map Script
+// 
+// Name:   [SC: Evo Complete] Sylphid (?????? ?????????) TE
+// 
+//==================================================================================================
+include "TriggerLibs/NativeLib"
+
+//--------------------------------------------------------------------------------------------------
+// Library Initialization
+//--------------------------------------------------------------------------------------------------
+void InitLibs () {
+    libNtve_InitLib();
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger Variables
+//--------------------------------------------------------------------------------------------------
+trigger gt_MapIniti;
+trigger gt_Tip;
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: MapIniti
+//--------------------------------------------------------------------------------------------------
+bool gt_MapIniti_Func (bool testConds, bool runActions) {
+    // Automatic Variable Declarations
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    MeleeInitResources();
+    MeleeInitUnits();
+    MeleeInitAI();
+    MeleeInitOptions();
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_MapIniti_Init () {
+    gt_MapIniti = TriggerCreate("gt_MapIniti_Func");
+    TriggerAddEventMapInit(gt_MapIniti);
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: Tip
+//--------------------------------------------------------------------------------------------------
+bool gt_Tip_Func (bool testConds, bool runActions) {
+    // Automatic Variable Declarations
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    UISetFrameVisible(PlayerGroupAll(), c_syncFrameTypeTipAlertPanel, true);
+    Wait(10.0, c_timeGame);
+    HelpPanelAddTip(PlayerGroupAll(), libNtve_gf_FormatTipTitle(StringExternal("Param/Value/D61104BA"), libNtve_ge_TipType_NormalTip), StringExternal("Param/Value/AFF9E6B9"), StringExternal("Param/Value/54B3B890"), "Assets\\UI\\btn_ui_tip_crate.dds");
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_Tip_Init () {
+    gt_Tip = TriggerCreate("gt_Tip_Func");
+    TriggerAddEventMapInit(gt_Tip);
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger Initialization
+//--------------------------------------------------------------------------------------------------
+void InitTriggers () {
+    gt_MapIniti_Init();
+    gt_Tip_Init();
+}
+
+//--------------------------------------------------------------------------------------------------
+// Map Initialization
+//--------------------------------------------------------------------------------------------------
+void InitMap () {
+    InitLibs();
+    InitTriggers();
+}

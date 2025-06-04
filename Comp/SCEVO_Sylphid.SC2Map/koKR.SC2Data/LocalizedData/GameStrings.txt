@@ -1,0 +1,5 @@
+﻿Button/Tooltip/ProtossCrates=A destructible blocker that can be removed to free up space.
+DocInfo/DescLong=The Official SC: Evo Complete port of Sylphid<n/>SC: Evo Complete 제작진의 공식 실피드 버전입니다. <n/>官方 SC: Evo 完全移植新仙女<n/>LatiAs / Avex / HyperONE / Caerei / Kat
+DocInfo/DescShort=1v1
+DocInfo/Name=[SC: Evo Complete] Sylphid (네오 실피드) TE
+Unit/Name/ProtossCrates=Destructible Crate

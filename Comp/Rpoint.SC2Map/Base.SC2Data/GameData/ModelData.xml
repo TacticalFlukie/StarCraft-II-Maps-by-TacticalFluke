@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CModel id="Aiur_MossClumps">
+        <Model value="Assets\Textures\raisedjungle_glowingwater.m3"/>
+        <VariationCount value="1"/>
+    </CModel>
+    <CModel id="BWJungleGrassThick" parent="Doodad">
+        <Model value="Assets\Models\65spec.m3"/>
+        <Flags index="VariationFallback" value="0"/>
+        <ScaleMax value="3.000000,3.000000,0.750000"/>
+        <ScaleMin value="2.000000,2.000000,0.750000"/>
+        <LowQualityModel value="DynamicGrassEndionSmall"/>
+        <SelectionRadius value="0.100000"/>
+    </CModel>
+    <CModel id="BWJungleGrassThick2" parent="Doodad">
+        <Model value="Assets\Models\65spec.m3"/>
+        <Flags index="VariationFallback" value="0"/>
+        <ScaleMax value="1.500000,1.500000,0.750000"/>
+        <ScaleMin value="0.800000,0.800000,0.750000"/>
+        <LowQualityModel value="DynamicGrassEndionSmall"/>
+    </CModel>
+    <CModel id="BelShirWaterDoodadLilyPad">
+        <Model value="Assets\Foliage\PlantMixAiur\PlantMixAiur_14.m3"/>
+    </CModel>
+    <CModel id="CollapsibleRockTowerDiagonal">
+        <TextureAppliedGroups value="belshir"/>
+    </CModel>
+    <CModel id="CompoundSewers_Water_Effects">
+        <AnimSpeed value="0.800000"/>
+    </CModel>
+    <CModel id="CompoundSewers_Water_Leak">
+        <VariationCount value="1"/>
+    </CModel>
+    <CModel id="DOM_GroundTrims2" parent="Doodad">
+        <Model value="Assets\HardTiles\Caev_Jungle_Hardtile_GrassDarkTrim_v1,0.m3"/>
+        <Flags index="VariationFallback" value="0"/>
+    </CModel>
+    <CModel id="Elsecaro_Medium_Rock2" parent="Doodad">
+        <Model value="Assets\Models\PureDesert_Medium_Rock.m3"/>
+        <Flags index="VariationFallback" value="0"/>
+        <Lighting value="Elsecaro_Medium_Rock"/>
+        <VariationCount value="10"/>
+    </CModel>
+    <CModel id="Elsecaro_Medium_Rock3" parent="Doodad">
+        <Model value="Assets\Models\PureDesert_Medium_Rock.m3"/>
+        <Flags index="VariationFallback" value="0"/>
+        <VariationCount value="10"/>
+    </CModel>
+    <CModel id="Explosions_Flak_Terran">
+        <AnimSpeed value="0.800000"/>
+    </CModel>
+    <CModel id="KakaruFlyer" parent="Unit">
+        <Model value="Assets\Units\Critters\KakaruGrey\KakaruGrey.m3"/>
+        <ScaleMax value="0.500000,0.500000,0.500000"/>
+        <ScaleMin value="0.500000,0.500000,0.500000"/>
+    </CModel>
+    <CModel id="KakaruFlyerDeath" parent="LocustFlyerDeathBase" Race="Neutral">
+        <Model value="Assets\Effects\Zerg\CreepBombExplosion\CreepBombExplosion.m3"/>
+        <Occlusion value="None"/>
+    </CModel>
+    <CModel id="LightningBolt">
+        <AnimSpeed value="0.700000"/>
+    </CModel>
+    <CModel id="NewLavaWater" parent="Doodad">
+        <Model value="Assets\Models\Caev_Jungle_Water_v10.m3"/>
+        <LowQualityModel value="NewLavaWater"/>
+    </CModel>
+    <CModel id="PhysicsImpactLavaLarge">
+        <Model value="Assets\Doodads\WaterSplashLarge\WaterSplashLarge.m3"/>
+    </CModel>
+    <CModel id="PhysicsImpactLavaLight">
+        <Model value="Assets\Doodads\WaterSplashLight\WaterSplashLight.m3"/>
+    </CModel>
+    <CModel id="PhysicsImpactLavaMassive">
+        <Model value="Assets\Doodads\WaterSplashMassive\WaterSplashMassive.m3"/>
+    </CModel>
+    <CModel id="PhysicsImpactLavaMedium">
+        <Model value="Assets\Doodads\WaterSplashMed\WaterSplashMed.m3"/>
+    </CModel>
+    <CModel id="RainSprinkle">
+        <SelectionRadius value="0.200000"/>
+    </CModel>
+    <CModel id="SmokePillar_Tall_Generic">
+        <RadiusLoose value="1024.000000"/>
+    </CModel>
+    <CModel id="SnowRefinery_RockCliffs_Large2" parent="Doodad">
+        <Model value="Assets\Models\BWJungle_RockCliffs_Large.m3"/>
+        <Flags index="VariationFallback" value="0"/>
+        <VariationCount value="3"/>
+        <ScaleMax value="0.750000,0.800000,0.400000"/>
+        <ScaleMin value="0.750000,0.800000,0.400000"/>
+    </CModel>
+    <CModel id="SwarmHostSpawnPortrait2" parent="Portrait" Race="Zerg">
+        <Model value="Assets\Portraits\Critters\KakaruRedPortrait\KakaruRedPortrait.m3"/>
+        <EditorCategories value="Race:Critter"/>
+        <Image value="Assets\Textures\KakaruGreyPortrait_Static.dds"/>
+        <Lighting value="SwarmHostSpawnPortrait"/>
+    </CModel>
+    <CModel id="TIMAppendix">
+        <Model value="Assets\StoryModeSets\Protoss\SMX2_GenericRocks\SMX2_GenericRocks.m3"/>
+        <ScaleMax value="1.500000,1.500000,1.500000"/>
+        <ScaleMin value="1.500000,1.500000,1.500000"/>
+        <VariationCount value="15"/>
+    </CModel>
+    <CModel id="VespeneGeyser">
+        <Model value="Assets\Buildings\Resources\VespeneGeyser_Ex2\VespeneGeyser_Ex2.m3"/>
+    </CModel>
+    <CModel id="Waterfall">
+        <AnimSpeed value="0.800000"/>
+    </CModel>
+    <CModel id="WeatherHelper">
+        <SelectionRadius value="0.200000"/>
+    </CModel>
+    <CModel id="ZerusLightning">
+        <AnimSpeed value="0.250000"/>
+    </CModel>
+</Catalog>

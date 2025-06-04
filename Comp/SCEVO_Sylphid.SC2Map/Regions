@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Regions>
+    <region id="1">
+        <name value="GasDelete"/>
+        <color value="255,255,0,0"/>
+        <shape type="rect">
+            <quad value="158,57,161,60"/>
+        </shape>
+        <shape type="rect">
+            <quad value="132,24,135,27"/>
+        </shape>
+        <shape type="rect">
+            <quad value="85,24,88,27"/>
+        </shape>
+        <shape type="rect">
+            <quad value="69,37,72,40"/>
+        </shape>
+        <shape type="rect">
+            <quad value="23,50,26,53"/>
+        </shape>
+        <shape type="rect">
+            <quad value="24,82,27,85"/>
+        </shape>
+        <shape type="rect">
+            <quad value="26,129,29,132"/>
+        </shape>
+        <shape type="rect">
+            <quad value="49,143,52,146"/>
+        </shape>
+        <shape type="rect">
+            <quad value="83,158,86,161"/>
+        </shape>
+        <shape type="rect">
+            <quad value="118,154,121,157"/>
+        </shape>
+        <shape type="rect">
+            <quad value="159,122,162,125"/>
+        </shape>
+        <shape type="rect">
+            <quad value="155,99,158,102"/>
+        </shape>
+        <shape type="rect">
+            <quad value="129,71,132,74"/>
+        </shape>
+        <shape type="rect">
+            <quad value="57,67,60,70"/>
+        </shape>
+        <shape type="rect">
+            <quad value="90,126,93,129"/>
+        </shape>
+    </region>
+    <region id="2">
+        <name value="Gas5000"/>
+        <color value="255,0,255,0"/>
+        <shape type="rect">
+            <quad value="162,54,165,57"/>
+        </shape>
+        <shape type="rect">
+            <quad value="128,22,131,25"/>
+        </shape>
+        <shape type="rect">
+            <quad value="88,20,91,23"/>
+        </shape>
+        <shape type="rect">
+            <quad value="65,33,68,36"/>
+        </shape>
+        <shape type="rect">
+            <quad value="19,53,22,56"/>
+        </shape>
+        <shape type="rect">
+            <quad value="21,86,24,89"/>
+        </shape>
+        <shape type="rect">
+            <quad value="22,125,25,128"/>
+        </shape>
+        <shape type="rect">
+            <quad value="53,147,56,150"/>
+        </shape>
+        <shape type="rect">
+            <quad value="86,162,89,165"/>
+        </shape>
+        <shape type="rect">
+            <quad value="122,156,125,159"/>
+        </shape>
+        <shape type="rect">
+            <quad value="160,126,163,129"/>
+        </shape>
+        <shape type="rect">
+            <quad value="159,95,162,98"/>
+        </shape>
+    </region>
+    <region id="3">
+        <name value="Min1000"/>
+        <color value="255,0,255,255"/>
+        <shape type="rect">
+            <quad value="130,69,132,70"/>
+        </shape>
+        <shape type="rect">
+            <quad value="131,68,133,69"/>
+        </shape>
+        <shape type="rect">
+            <quad value="130,66,132,67"/>
+        </shape>
+        <shape type="rect">
+            <quad value="131,65,133,66"/>
+        </shape>
+        <shape type="rect">
+            <quad value="130,63,132,64"/>
+        </shape>
+        <shape type="rect">
+            <quad value="129,62,131,63"/>
+        </shape>
+        <shape type="rect">
+            <quad value="92,130,94,131"/>
+        </shape>
+        <shape type="rect">
+            <quad value="93,131,95,132"/>
+        </shape>
+        <shape type="rect">
+            <quad value="96,132,98,133"/>
+        </shape>
+        <shape type="rect">
+            <quad value="97,131,99,132"/>
+        </shape>
+        <shape type="rect">
+            <quad value="100,132,102,133"/>
+        </shape>
+        <shape type="rect">
+            <quad value="101,131,103,132"/>
+        </shape>
+        <shape type="rect">
+            <quad value="53,77,55,78"/>
+        </shape>
+        <shape type="rect">
+            <quad value="52,76,54,77"/>
+        </shape>
+        <shape type="rect">
+            <quad value="52,74,54,75"/>
+        </shape>
+        <shape type="rect">
+            <quad value="53,73,55,74"/>
+        </shape>
+        <shape type="rect">
+            <quad value="53,71,55,72"/>
+        </shape>
+        <shape type="rect">
+            <quad value="54,70,56,71"/>
+        </shape>
+    </region>
+    <region id="4">
+        <name value="Gas1500"/>
+        <color value="255,255,0,255"/>
+        <shape type="rect">
+            <quad value="125,59,128,62"/>
+        </shape>
+        <shape type="rect">
+            <quad value="53,79,56,82"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104,128,107,131"/>
+        </shape>
+    </region>
+</Regions>

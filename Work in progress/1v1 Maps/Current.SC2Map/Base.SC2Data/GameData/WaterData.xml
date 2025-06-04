@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CWater id="Agria">
+        <State index="0">
+            <Height value="6.850000"/>
+            <Color value="0.019608,0.019608,0.078431,0.338000"/>
+            <ColorFallOff value="0.723000"/>
+            <Specularity value="184.000000"/>
+            <SpecularScaler value="6.270000"/>
+            <UvRate value="0.003779,-0.003274,0.000000,0.000000"/>
+            <TextureRoughness value="0.066000"/>
+            <ReflectionDistortion value="0.047000"/>
+            <RefractionDistortion value="0.009100"/>
+            <MinReflection value="0.663000"/>
+            <ReflectivityPower value="1.090000"/>
+        </State>
+    </CWater>
+    <CWater id="AiurCreep">
+        <State index="0" Height="9.900000"/>
+    </CWater>
+    <CWater id="Albion">
+        <State index="0">
+            <Color value="0.031373,0.407843,0.784314,0.700000"/>
+            <ColorFallOff value="0.500000"/>
+            <CausticsFallOff value="20.000000"/>
+            <Specularity value="55.000000"/>
+            <SpecularScaler value="4.030000"/>
+            <UvRate value="-0.000000,-0.043000,0.000000,0.000000"/>
+            <UvRotate value="2.089857"/>
+            <TextureRoughness value="0.020000"/>
+            <ReflectionDistortion value="0.020000"/>
+            <RefractionDistortion value="0.020000"/>
+            <MinReflection value="0.250000"/>
+            <ReflectivityPower value="4.000000"/>
+        </State>
+    </CWater>
+    <CWater id="Haven">
+        <State index="0">
+            <Height value="9.200000"/>
+            <Color value="0.000000,0.015686,0.070588,1.000000"/>
+            <ColorFallOff value="0.187000"/>
+            <CausticsFallOff value="0.460000"/>
+            <Specularity value="329.000000"/>
+            <SpecularScaler value="0.000000"/>
+            <UvRate value="0.017308,-0.010021,0.000000,0.000000"/>
+            <MeshRoughness value="0.234000"/>
+            <TextureRoughness value="1.000000"/>
+            <ReflectionDistortion value="0.005000"/>
+            <RefractionDistortion value="0.001100"/>
+            <MinReflection value="0.016000"/>
+            <ReflectivityPower value="0.560000"/>
+        </State>
+        <ReceiveShadows value="1"/>
+    </CWater>
+</Catalog>

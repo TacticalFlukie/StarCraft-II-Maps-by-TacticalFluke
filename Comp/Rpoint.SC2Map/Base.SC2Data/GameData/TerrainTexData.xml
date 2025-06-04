@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrainTex id="DesertWorld32">
+        <Texture value="Assets\Textures\Tileset\BW_RockyDirt2_Final.DDS"/>
+        <Normalmap value="Assets\Textures\korhalwastes_2normal.dds"/>
+        <EditorIcon value="Assets\Textures\Tileset\BW_RockyDirt2_Final.DDS"/>
+        <DoodadEntry>
+            <Model value="DesertWorldRockMix"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.250000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+        <PhysicsMaterial value="Rock"/>
+    </CTerrainTex>
+    <CTerrainTex id="BWJungleDirtLow">
+        <Texture value="Assets\Textures\Tileset\BW_LowDirtNew4_Final.dds"/>
+        <Normalmap value="Assets\Textures\Tileset\customterrain_dirtnormal_korhal.dds"/>
+        <EditorIcon value="Assets\Textures\Tileset\BW_LowDirtNew4_Final.dds"/>
+        <DoodadEntry Model="RockMixTarsonis" RandomRotation="1" PlacementRadius="0.100000"/>
+        <DoodadEntry Model="PlantMixTarsonis" RandomRotation="1" PlacementRadius="1.500000"/>
+    </CTerrainTex>
+    <CTerrainTex id="BWJungleTemple">
+        <Texture value="Assets\Textures\Tileset\BW_TempleBricks_High_Final.DDS"/>
+        <Normalmap value="Assets\Textures\Tileset\BW_TempleBricks_High_Final_Normal.DDS"/>
+        <EditorIcon value="Assets\Textures\Tileset\BW_TempleBricks_High_Final.DDS"/>
+        <DoodadEntry>
+            <Model value="RockMixUlnar"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.250000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+    </CTerrainTex>
+    <CTerrainTex id="BWJungleRockyDirt">
+        <Texture value="Assets\Textures\Tileset\BW_RockyDirt2_2_Final.DDS"/>
+        <Normalmap value="Assets\Textures\Tileset\BW_RockyDirt2_Final_normal.dds"/>
+        <EditorIcon value="Assets\Textures\Tileset\BW_RockyDirt2_2_Final.DDS"/>
+        <DoodadEntry>
+            <Model value="RockMixKorhalEx2"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.250000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+        <PhysicsMaterial value="Rock"/>
+    </CTerrainTex>
+    <CTerrainTex id="BWJungleBricks">
+        <Texture value="Assets\Textures\Tileset\BW_TempleBricksLower_Final.dds"/>
+        <Normalmap value="Assets\Textures\Tileset\customterrain_bricksnormal.dds"/>
+        <EditorIcon value="Assets\Textures\Tileset\BW_TempleBricksLower_Final.dds"/>
+        <DoodadEntry>
+            <Model value="RockMixMonlyth"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.100000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+        <PhysicsMaterial value="Rock"/>
+    </CTerrainTex>
+    <CTerrainTex id="BWJungleDirtHigh">
+        <Texture value="Assets\Textures\Tileset\BW_HighDirt2_Final.dds"/>
+        <Normalmap value="Assets\Textures\Tileset\customterrain_dirtnormal_korhal.dds"/>
+        <EditorIcon value="Assets\Textures\Tileset\BW_HighDirt2_Final.dds"/>
+        <DoodadEntry>
+            <Model value="PlantMixTarsonis"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.100000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+        <DoodadEntry>
+            <Model value="RockMixTarsonis"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.100000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+        <DoodadEntry>
+            <Model value="DynamicGrassTarsonis"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.200000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+    </CTerrainTex>
+    <CTerrainTex id="BWJungleMud">
+        <Texture value="Assets\Textures\Tileset\BW_TempleMud2_Final.dds"/>
+        <Normalmap value="Assets\Textures\Tileset\customterrain_dirtnormal_korhal.dds"/>
+        <EditorIcon value="Assets\Textures\Tileset\BW_TempleMud2_Final.dds"/>
+        <DoodadEntry>
+            <Model value="PlantMixTyphon"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.100000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+        <DoodadEntry>
+            <Model value="RockMixTyphon"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.100000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+    </CTerrainTex>
+    <CTerrainTex id="BWJungle">
+        <Texture value="Assets\Textures\Tileset\BW_Temple_Grass_Caev3_Final.dds"/>
+        <Normalmap value="Assets\Textures\Tileset\BW_Generic_Grass_Caev_Normal_Final.dds"/>
+        <EditorIcon value="Assets\Textures\Tileset\BW_Temple_Grass_Caev3_Final.dds"/>
+        <DoodadEntry>
+            <Model value="PlantMixBelShir"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.200000"/>
+            <PlacementRadius value="1.200000"/>
+        </DoodadEntry>
+        <DoodadEntry>
+            <Model value="DynamicGrassBelShir"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.050000"/>
+            <PlacementRadius value="0.400000"/>
+        </DoodadEntry>
+    </CTerrainTex>
+    <CTerrainTex id="BWRaisedJungle">
+        <Texture value="Assets\Textures\Tileset\BW_Temple_GrassHigh_Caev3_Final.dds"/>
+        <Normalmap value="Assets\Textures\Tileset\BW_Generic_Grass_Caev_Normal_Final.dds"/>
+        <EditorIcon value="Assets\Textures\Tileset\BW_Temple_GrassHigh_Caev3_Final.dds"/>
+        <DoodadEntry>
+            <Model value="PlantMixBelShir"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.200000"/>
+            <PlacementRadius value="1.200000"/>
+        </DoodadEntry>
+        <DoodadEntry>
+            <Model value="DynamicGrassBelShir"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.200000"/>
+            <PlacementRadius value="0.400000"/>
+        </DoodadEntry>
+    </CTerrainTex>
+</Catalog>

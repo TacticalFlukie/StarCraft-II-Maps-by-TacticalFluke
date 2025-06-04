@@ -1,0 +1,2 @@
+﻿Trigger/Name/795BBD36=Tip
+Trigger/Name/828C642E=MapIniti

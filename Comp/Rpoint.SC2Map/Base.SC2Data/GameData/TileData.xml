@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTile id="BWGrass1">
+        <Material value="Assets\Models\Caev_Jungle_Hardtile_GrassDarkTrim_v1,0.m3"/>
+        <EditorIcon value="Assets\Textures\Tileset\BW_Temple_Grass_Caev3_Final.dds"/>
+        <TesselationDistance value="0.100000"/>
+        <TileWidthDistance value="1.000000"/>
+        <CapLength value="0.150000"/>
+        <DefaultSplineWidth value="0.300000"/>
+    </CTile>
+    <CTile id="BWGrass12">
+        <Material value="Assets\Models\Caev_Jungle_Hardtile_GrassLightTrim_v1,0.m3"/>
+        <EditorIcon value="Assets\Textures\Tileset\BW_Temple_GrassHigh_Caev3_Final.dds"/>
+        <TesselationDistance value="0.100000"/>
+        <TileWidthDistance value="1.000000"/>
+        <CapLength value="0.150000"/>
+        <DefaultSplineWidth value="0.300000"/>
+    </CTile>
+</Catalog>

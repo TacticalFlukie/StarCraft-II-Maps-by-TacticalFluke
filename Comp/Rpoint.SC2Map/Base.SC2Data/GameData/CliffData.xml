@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CCliff id="AiurTempleCliff12">
+        <CliffMesh value="CliffMade1Ex1"/>
+        <CliffMaterial value="Assets\Cliffs\BelShirEx3_1_Material.m3"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-terraineditor_clifftemple.dds"/>
+    </CCliff>
+    <CCliff id="PortZionEx1Cliff03">
+        <CliffMesh value="CliffNatural0Ex1"/>
+        <CliffMaterial value="Assets\Cliffs\Caev_Jungle_Cliff_v10.m3"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-terraineditor_cliffnatural.dds"/>
+    </CCliff>
+</Catalog>

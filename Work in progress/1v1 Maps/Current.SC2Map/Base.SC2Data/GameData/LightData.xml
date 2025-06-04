@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CLight id="ElsecaroShower">
+        <ToDInfoArray index="0" AmbientColor="0.396078,0.317647,0.341176" AmbientEnvironmentMultiplier="0.989000">
+            <DirectionalLight index="Key" Color="0.513726,0.517647,1.000000" ColorMultiplier="2.050000" Direction="0.757943,-0.111112,-0.642788"/>
+            <DirectionalLight index="Fill" Direction="-0.213328,-0.814314,0.539800"/>
+            <DirectionalLight index="Back" Color="0.682353,0.000000,0.000000" Direction="0.097942,0.500602,0.860120"/>
+        </ToDInfoArray>
+    </CLight>
+</Catalog>
