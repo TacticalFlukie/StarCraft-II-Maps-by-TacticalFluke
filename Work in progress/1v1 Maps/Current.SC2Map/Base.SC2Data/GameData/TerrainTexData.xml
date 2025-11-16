@@ -8,6 +8,6 @@
         <Normalmap value="customterrain_lavacracks1normal.dds"/>
     </CTerrainTex>
     <CTerrainTex id="Elsecaro5">
-        <Texture value="elsecaro_5_mod3.dds"/>
+        <Texture value="elsecaro_5_mod2.dds"/>
     </CTerrainTex>
 </Catalog>
